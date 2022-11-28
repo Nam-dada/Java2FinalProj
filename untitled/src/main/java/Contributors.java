@@ -9,7 +9,7 @@ import java.util.*;
 
 public class Contributors {
   public static void main(String[] args) throws IOException {
-    String s = "https://api.github.com/repos/alibaba/fastjson/contributors";
+    String s = "https://api.github.com/repos/alibaba/fastjson/contributors?per_page=100";
     URL url = new URL(s);
     PrintWriter out = new PrintWriter("Contributors.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();

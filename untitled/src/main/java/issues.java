@@ -15,7 +15,7 @@ import java.util.*;
 
 public class issues {
   public static void main(String[] args) throws IOException, ParseException {
-    String s = "https://api.github.com/repos/spring-projects/spring-boot/issues?state=all&per_page=100&page=1";
+    String s = "https://api.github.com/repos/alibaba/fastjson/issues?state=all&per_page=100&page=1";
     URL url = new URL(s);
     PrintWriter out = new PrintWriter("issues.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();

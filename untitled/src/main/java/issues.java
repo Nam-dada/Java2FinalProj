@@ -15,39 +15,30 @@ import java.util.*;
 
 public class issues {
   public static void main(String[] args) throws IOException, ParseException {
-    String s = "https://api.github.com/repos/alibaba/fastjson/issues?state=all&per_page=100&page=1";
+    int m = 2;
+    List<LinkedHashMap<String, Object>> dataList = new ArrayList<>();
+    String s = "https://api.github.com/repos/alibaba/fastjson/issues?state=all&per_page=100";
     URL url = new URL(s);
     PrintWriter out = new PrintWriter("issues.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();
     connection.setRequestMethod("GET");
     connection.connect();
-    Scanner in = new Scanner(connection.getInputStream());
-    StringBuilder js = new StringBuilder();
-    while(in.hasNext()) {
-      js.append(in.next());
+    while (m != 20) {
+      StringBuilder j = new StringBuilder();
+      Scanner in = new Scanner(connection.getInputStream());
+      while (in.hasNext()) {
+        j.append(in.next());
+      }
+      getJsList(dataList, j.toString());
+      s = "https://api.github.com/repos/alibaba/fastjson/issues?state=all&per_page=100&page="+m;
+      url = new URL(s);
+      connection = (HttpURLConnection) url.openConnection();
+      connection.setRequestMethod("GET");
+      connection.connect();
+      m++;
     }
     int open = 0;
     int close = 0;
-    List<LinkedHashMap<String, Object>> dataList = new ArrayList<>();
-    JSONArray issues = JSONArray.parseArray(js.toString());
-    for (int i = 0 ; i < issues.size(); i++) {
-      JSONObject j = (JSONObject)issues.get(i);
-      String comments = j.get("comments").toString();
-      String state = j.get("state").toString();
-      String creatTime = j.get("created_at").toString();
-      String closeTime;
-      if (j.get("closed_at") == null) {
-        closeTime = "null";
-      } else {
-       closeTime = j.get("closed_at").toString();
-      }
-      String durationTime = getDurationTime(creatTime, closeTime);
-      LinkedHashMap<String, Object> map = new LinkedHashMap<>();
-      map.put("comments", comments);
-      map.put("state", state);
-      map.put("durationTime", durationTime);
-      dataList.add(map);
-    }
     List<String> outList = new ArrayList<>();
     Collections.sort(dataList, (m1, m2) -> Integer.compare(Integer.parseInt
        (m2.get("comments").toString()), Integer.parseInt(m1.get("comments").toString())));
@@ -93,6 +84,27 @@ public class issues {
     diff -= minutes * sm;
     long seconds = diff / ss;
     return days + " Days "+hours+" Hours "+minutes+ " Minutes "+seconds+" Seconds";
+  }
+  public static void getJsList(List<LinkedHashMap<String, Object>> list, String js) throws ParseException {
+    JSONArray issues = JSONArray.parseArray(js);
+    for (int i = 0 ; i < issues.size(); i++) {
+      JSONObject j = (JSONObject)issues.get(i);
+      String comments = j.get("comments").toString();
+      String state = j.get("state").toString();
+      String creatTime = j.get("created_at").toString();
+      String closeTime;
+      if (j.get("closed_at") == null) {
+        closeTime = "null";
+      } else {
+        closeTime = j.get("closed_at").toString();
+      }
+      String durationTime = getDurationTime(creatTime, closeTime);
+      LinkedHashMap<String, Object> map = new LinkedHashMap<>();
+      map.put("comments", comments);
+      map.put("state", state);
+      map.put("durationTime", durationTime);
+      list.add(map);
+    }
   }
 }
 

@@ -44,12 +44,13 @@ public class release {
   }
   public static void getReleasesJs (List<LinkedHashMap<String, Object>> dateList, String s, ArrayList<Long> time) throws ParseException {
     JSONArray release = JSONArray.parseArray(s);
-    for (int i = 0 ; i < release.size(); i++) {
+    for (int i = 0 ; i < release.size() - 1; i++) {
       LinkedHashMap<String, Object> map = new LinkedHashMap<>();
       JSONObject re = release.getJSONObject(i);
+      JSONObject re2 = release.getJSONObject(i + 1);
       String tag = re.get("tag_name").toString();
-      String cr = re.get("created_at").toString();
-      String en = re.get("published_at").toString();
+      String cr = re2.get("created_at").toString();
+      String en = re.get("created_at").toString();
       String Time1 = en.replace("Z", " UTC");
       SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss Z");
       SimpleDateFormat format1 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
@@ -72,10 +73,24 @@ public class release {
       long begin = Long.parseLong(t6);
       int totalCommit = getCommits(begin, end, time);
       map.put("Tag_name", tag);
-      map.put("Published_at", Time2);
+      map.put("Created_at", Time2);
       map.put("NewCommits", totalCommit);
       dateList.add(map);
     }
+    LinkedHashMap<String, Object> map = new LinkedHashMap<>();
+    JSONObject re = release.getJSONObject(release.size() - 1);
+    String tag = re.get("tag_name").toString();
+    String en = re.get("created_at").toString();
+    String Time1 = en.replace("Z", " UTC");
+    SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss Z");
+    SimpleDateFormat format1 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+    Date timeEnd = format.parse(Time1);
+    String Time2 = format1.format(timeEnd);
+    System.out.println(en);
+    map.put("Tag_name", tag);
+    map.put("Created_at", Time2);
+    map.put("NewCommits", 0);
+    dateList.add(map);
   }
   public static int getCommits (long begin, long end, ArrayList<Long> time) {
     int blue1 = -1;

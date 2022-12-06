@@ -12,10 +12,10 @@ import java.util.Scanner;
 
 @RestController
 @RequestMapping("/commits")
-public class gihub {
+public class github {
   Scanner in = new Scanner(new File("commits.txt"));
   
-  public gihub() throws FileNotFoundException {
+  public github() throws FileNotFoundException {
   }
   
   @GetMapping

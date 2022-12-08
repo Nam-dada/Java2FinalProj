@@ -1,3 +1,2103 @@
+Time:2022-11-28
+{login=wenshao, contributions=3043}
+{login=VictorZeng, contributions=151}
+{login=Omega-Ariston, contributions=85}
+{login=Anonymous, contributions=71}
+{login=kimmking, contributions=70}
+{login=Anonymous, contributions=40}
+{login=neil4dong, contributions=25}
+{login=ZivYan, contributions=20}
+{login=timandy, contributions=16}
+{login=yakolee, contributions=14}
+{login=MengdiGao, contributions=11}
+{login=Anonymous, contributions=11}
+{login=JoshuaJeme, contributions=10}
+{login=axmanwang, contributions=10}
+{login=lihengming, contributions=10}
+{login=Certseeds, contributions=9}
+{login=Anonymous, contributions=9}
+{login=wuwen5, contributions=8}
+{login=auntyellow, contributions=7}
+{login=mpadillatabuenca, contributions=7}
+{login=ptma, contributions=7}
+{login=CodePlayer, contributions=7}
+{login=kylixs, contributions=6}
+{login=Zeyuuuuuu, contributions=6}
+{login=OrDTesters, contributions=6}
+{login=ArronHuang, contributions=5}
+{login=bingoko, contributions=5}
+{login=chen623, contributions=5}
+{login=dependabot[bot], contributions=5}
+{login=blindarcheology, contributions=5}
+{login=J-Cod3r, contributions=5}
+{login=Anonymous, contributions=4}
+{login=hengyunabc, contributions=4}
+{login=imknown, contributions=4}
+{login=lichengwu, contributions=4}
+{login=qifanyang, contributions=4}
+{login=wangxu0, contributions=4}
+{login=yanquanyu, contributions=4}
+{login=Anonymous, contributions=4}
+{login=lh4111, contributions=4}
+{login=munendrasn, contributions=4}
+{login=Linyer-qwq, contributions=3}
+{login=oldratlee, contributions=3}
+{login=Anonymous, contributions=3}
+{login=cpugputpu, contributions=3}
+{login=duxinglangzi, contributions=3}
+{login=github-ganyu, contributions=3}
+{login=Anonymous, contributions=3}
+{login=robberphex, contributions=3}
+{login=Anonymous, contributions=3}
+{login=nschaffner, contributions=3}
+{login=beilly, contributions=3}
+{login=Anonymous, contributions=3}
+{login=yl-yue, contributions=3}
+{login=zihengCat, contributions=3}
+{login=rmfish, contributions=3}
+{login=severalfly, contributions=3}
+{login=ianate, contributions=3}
+{login=Nextyo, contributions=3}
+{login=blindpirate, contributions=2}
+{login=HanSolo, contributions=2}
+{login=abop, contributions=2}
+{login=JacceYang, contributions=2}
+{login=myoss, contributions=2}
+{login=JohnLBergqvist, contributions=2}
+{login=Koooooo-7, contributions=2}
+{login=LQZYC, contributions=2}
+{login=Mairuis, contributions=2}
+{login=RLin2015New, contributions=2}
+{login=Ryyyc, contributions=2}
+{login=T45K, contributions=2}
+{login=LoveTangNow, contributions=2}
+{login=biyanwen, contributions=2}
+{login=Anonymous, contributions=2}
+{login=contextshuffling, contributions=2}
+{login=kangkona, contributions=2}
+{login=itsVol, contributions=2}
+{login=jmz11, contributions=2}
+{login=Anonymous, contributions=2}
+{login=lightsing, contributions=2}
+{login=Anonymous, contributions=2}
+{login=echohlne, contributions=2}
+{login=netroby, contributions=2}
+{login=researchlive, contributions=2}
+{login=sundy-li, contributions=2}
+{login=tenwx, contributions=2}
+{login=wuminorb, contributions=2}
+{login=cnzgray, contributions=2}
+{login=zhibo6, contributions=2}
+{login=Anonymous, contributions=2}
+{login=zyplayer, contributions=2}
+{login=LNAmp, contributions=2}
+{login=davinwang, contributions=2}
+{login=bohrqiu, contributions=2}
+{login=yussuy, contributions=2}
+{login=lovepoem, contributions=2}
+{login=kiddingYang, contributions=2}
+{login=jianqingdu, contributions=2}
+{login=kkkkninezzz, contributions=1}
+{login=hotaru555, contributions=1}
+{login=pentiumao, contributions=1}
+{login=stepinto, contributions=1}
+{login=CharkeyQK, contributions=1}
+{login=YunLemon, contributions=1}
+{login=Xenios91, contributions=1}
+{login=fmeum, contributions=1}
+{login=Felicty, contributions=1}
+{login=FlXME, contributions=1}
+{login=felixonmars, contributions=1}
+{login=FlyingHighNow, contributions=1}
+{login=Anonymous, contributions=1}
+{login=OLPMO, contributions=1}
+{login=M-AJ, contributions=1}
+{login=matteobaccan, contributions=1}
+{login=mingjliu-cisco, contributions=1}
+{login=mortonfox, contributions=1}
+{login=ZhuXuanyi, contributions=1}
+{login=MaverickNyk, contributions=1}
+{login=Anonymous, contributions=1}
+{login=prayagverma, contributions=1}
+{login=RaghavaDhanya, contributions=1}
+{login=ronnin, contributions=1}
+{login=Slahser, contributions=1}
+{login=TsLenMo, contributions=1}
+{login=SelfRidicule, contributions=1}
+{login=sergioescala, contributions=1}
+{login=Anonymous, contributions=1}
+{login=SheetJSDev, contributions=1}
+{login=lethal233, contributions=1}
+{login=stevenspasbo, contributions=1}
+{login=Studiedlist, contributions=1}
+{login=svenefftinge, contributions=1}
+{login=voidpointer0x00, contributions=1}
+{login=vbauer, contributions=1}
+{login=ziqin, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Jadmin3, contributions=1}
+{login=York-Cheung, contributions=1}
+{login=Anonymous, contributions=1}
+{login=ttoommbb, contributions=1}
+{login=gaozone-talend, contributions=1}
+{login=imJude-z, contributions=1}
+{login=Al-p-i, contributions=1}
+{login=aluode99, contributions=1}
+{login=anirudhdmenon, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Anonymous, contributions=1}
+{login=clark-liu, contributions=1}
+{login=danieldingzju, contributions=1}
+{login=deqingLv, contributions=1}
+{login=eden-yuan, contributions=1}
+{login=fanzhongwei, contributions=1}
+{login=firepirate, contributions=1}
+{login=flym, contributions=1}
+{login=gaecfov, contributions=1}
+{login=GageChan, contributions=1}
+{login=Veryfirefly, contributions=1}
+{login=Anonymous, contributions=1}
+{login=hexiaobing5880, contributions=1}
+{login=hnyyghk, contributions=1}
+{login=WilliamHeaven, contributions=1}
+{login=kingom0426, contributions=1}
+{login=zhaolong, contributions=1}
+{login=LaughXP, contributions=1}
+{login=Horanol, contributions=1}
+{login=liaozan, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Anonymous, contributions=1}
+{login=messense, contributions=1}
+{login=mrkcsc, contributions=1}
+{login=mymilkbottles, contributions=1}
+{login=myshzzx, contributions=1}
+{login=ilaipi, contributions=1}
+{login=Anonymous, contributions=1}
+{login=quantum0mechanics, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Anonymous, contributions=1}
+{login=Anonymous, contributions=1}
+{login=testfixer, contributions=1}
+{login=toutoudnf, contributions=1}
+{login=Anonymous, contributions=1}
+{login=vacuityv, contributions=1}
+{login=wangzhaoning, contributions=1}
+{login=limpidezza, contributions=1}
+{login=Anonymous, contributions=1}
+{login=WaTer9527, contributions=1}
+{login=ejdbc, contributions=1}
+{login=weiwensangsang, contributions=1}
+{login=wen0909, contributions=1}
+{login=Anonymous, contributions=1}
+{login=wkkata, contributions=1}
+{login=xdshent, contributions=1}
+{login=xiaqingyun, contributions=1}
+{login=xladykiller, contributions=1}
+{login=eoss1990, contributions=1}
+{login=rootcn, contributions=1}
+{login=yixblog, contributions=1}
+{login=Anonymous, contributions=1}
+{login=yuankui, contributions=1}
+{login=pymBupt, contributions=1}
+{login=Anonymous, contributions=1}
+{login=iqiancheng, contributions=1}
+{login=zxjpro, contributions=1}
+{login=Anonymous, contributions=1}
+{login=hulog, contributions=1}
+{login=Anonymous, contributions=1}
+3971
+-spy raye ace-
+Openissues: 1014
+Closedissues: 786
+{comments=43, state=open, durationTime=No}
+{comments=22, state=open, durationTime=No}
+{comments=18, state=open, durationTime=No}
+{comments=17, state=open, durationTime=No}
+{comments=16, state=closed, durationTime=5 Days 5 Hours 17 Minutes 51 Seconds}
+{comments=15, state=closed, durationTime=104 Days 22 Hours 46 Minutes 49 Seconds}
+{comments=14, state=closed, durationTime=4 Days 17 Hours 54 Minutes 46 Seconds}
+{comments=14, state=open, durationTime=No}
+{comments=14, state=open, durationTime=No}
+{comments=13, state=open, durationTime=No}
+{comments=13, state=closed, durationTime=567 Days 7 Hours 53 Minutes 34 Seconds}
+{comments=13, state=closed, durationTime=188 Days 0 Hours 55 Minutes 30 Seconds}
+{comments=12, state=open, durationTime=No}
+{comments=12, state=closed, durationTime=7 Days 20 Hours 24 Minutes 19 Seconds}
+{comments=12, state=closed, durationTime=7 Days 15 Hours 36 Minutes 55 Seconds}
+{comments=11, state=open, durationTime=No}
+{comments=11, state=closed, durationTime=13 Days 1 Hours 28 Minutes 46 Seconds}
+{comments=10, state=open, durationTime=No}
+{comments=10, state=open, durationTime=No}
+{comments=10, state=closed, durationTime=211 Days 6 Hours 13 Minutes 54 Seconds}
+{comments=10, state=closed, durationTime=3 Days 12 Hours 44 Minutes 44 Seconds}
+{comments=10, state=closed, durationTime=25 Days 17 Hours 59 Minutes 18 Seconds}
+{comments=10, state=open, durationTime=No}
+{comments=10, state=open, durationTime=No}
+{comments=10, state=open, durationTime=No}
+{comments=9, state=open, durationTime=No}
+{comments=9, state=open, durationTime=No}
+{comments=9, state=open, durationTime=No}
+{comments=9, state=closed, durationTime=1 Days 4 Hours 40 Minutes 1 Seconds}
+{comments=9, state=closed, durationTime=0 Days 1 Hours 0 Minutes 38 Seconds}
+{comments=9, state=closed, durationTime=7 Days 7 Hours 47 Minutes 22 Seconds}
+{comments=9, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=closed, durationTime=0 Days 5 Hours 55 Minutes 21 Seconds}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=closed, durationTime=8 Days 16 Hours 16 Minutes 20 Seconds}
+{comments=8, state=closed, durationTime=18 Days 18 Hours 37 Minutes 52 Seconds}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=8, state=open, durationTime=No}
+{comments=7, state=open, durationTime=No}
+{comments=7, state=open, durationTime=No}
+{comments=7, state=open, durationTime=No}
+{comments=7, state=closed, durationTime=40 Days 7 Hours 41 Minutes 55 Seconds}
+{comments=7, state=closed, durationTime=1 Days 1 Hours 16 Minutes 54 Seconds}
+{comments=7, state=closed, durationTime=2 Days 13 Hours 34 Minutes 9 Seconds}
+{comments=7, state=closed, durationTime=3 Days 4 Hours 57 Minutes 55 Seconds}
+{comments=7, state=closed, durationTime=7 Days 14 Hours 46 Minutes 56 Seconds}
+{comments=7, state=closed, durationTime=4 Days 1 Hours 53 Minutes 17 Seconds}
+{comments=7, state=open, durationTime=No}
+{comments=7, state=open, durationTime=No}
+{comments=7, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=closed, durationTime=24 Days 12 Hours 51 Minutes 54 Seconds}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=closed, durationTime=12 Days 2 Hours 35 Minutes 23 Seconds}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=closed, durationTime=0 Days 7 Hours 3 Minutes 12 Seconds}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=closed, durationTime=5 Days 5 Hours 7 Minutes 5 Seconds}
+{comments=6, state=closed, durationTime=11 Days 7 Hours 39 Minutes 50 Seconds}
+{comments=6, state=closed, durationTime=2 Days 15 Hours 55 Minutes 40 Seconds}
+{comments=6, state=closed, durationTime=2 Days 23 Hours 37 Minutes 18 Seconds}
+{comments=6, state=closed, durationTime=3 Days 15 Hours 35 Minutes 15 Seconds}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=closed, durationTime=30 Days 0 Hours 38 Minutes 49 Seconds}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=closed, durationTime=1 Days 20 Hours 32 Minutes 42 Seconds}
+{comments=6, state=closed, durationTime=31 Days 2 Hours 54 Minutes 54 Seconds}
+{comments=6, state=closed, durationTime=283 Days 12 Hours 21 Minutes 42 Seconds}
+{comments=6, state=closed, durationTime=3 Days 16 Hours 29 Minutes 5 Seconds}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=6, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=9 Days 13 Hours 22 Minutes 12 Seconds}
+{comments=5, state=closed, durationTime=10 Days 13 Hours 14 Minutes 55 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=3 Days 18 Hours 57 Minutes 34 Seconds}
+{comments=5, state=closed, durationTime=0 Days 0 Hours 14 Minutes 13 Seconds}
+{comments=5, state=closed, durationTime=69 Days 20 Hours 51 Minutes 51 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=42 Days 3 Hours 32 Minutes 48 Seconds}
+{comments=5, state=closed, durationTime=24 Days 0 Hours 24 Minutes 31 Seconds}
+{comments=5, state=closed, durationTime=167 Days 18 Hours 10 Minutes 7 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=5 Days 9 Hours 46 Minutes 54 Seconds}
+{comments=5, state=closed, durationTime=0 Days 22 Hours 16 Minutes 13 Seconds}
+{comments=5, state=closed, durationTime=0 Days 3 Hours 54 Minutes 36 Seconds}
+{comments=5, state=closed, durationTime=307 Days 21 Hours 34 Minutes 39 Seconds}
+{comments=5, state=closed, durationTime=13 Days 0 Hours 37 Minutes 27 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=0 Days 20 Hours 52 Minutes 2 Seconds}
+{comments=5, state=closed, durationTime=81 Days 20 Hours 44 Minutes 48 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=478 Days 21 Hours 14 Minutes 13 Seconds}
+{comments=5, state=closed, durationTime=15 Days 23 Hours 13 Minutes 31 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=69 Days 18 Hours 14 Minutes 51 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=155 Days 11 Hours 34 Minutes 24 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=20 Days 19 Hours 3 Minutes 8 Seconds}
+{comments=5, state=open, durationTime=No}
+{comments=5, state=closed, durationTime=19 Days 16 Hours 55 Minutes 2 Seconds}
+{comments=4, state=closed, durationTime=1 Days 11 Hours 49 Minutes 51 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=22 Days 5 Hours 47 Minutes 38 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=11 Days 23 Hours 44 Minutes 10 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=83 Days 18 Hours 56 Minutes 33 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=381 Days 22 Hours 16 Minutes 6 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=23 Days 0 Hours 27 Minutes 37 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=25 Days 19 Hours 41 Minutes 21 Seconds}
+{comments=4, state=closed, durationTime=508 Days 15 Hours 3 Minutes 29 Seconds}
+{comments=4, state=closed, durationTime=13 Days 0 Hours 22 Minutes 25 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=13 Days 2 Hours 47 Minutes 39 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=9 Days 7 Hours 40 Minutes 8 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=0 Days 5 Hours 6 Minutes 15 Seconds}
+{comments=4, state=closed, durationTime=2 Days 13 Hours 23 Minutes 38 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=18 Days 18 Hours 16 Minutes 29 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=662 Days 9 Hours 20 Minutes 58 Seconds}
+{comments=4, state=closed, durationTime=0 Days 3 Hours 30 Minutes 42 Seconds}
+{comments=4, state=closed, durationTime=26 Days 4 Hours 19 Minutes 34 Seconds}
+{comments=4, state=closed, durationTime=60 Days 6 Hours 48 Minutes 40 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=6 Days 6 Hours 24 Minutes 36 Seconds}
+{comments=4, state=closed, durationTime=546 Days 15 Hours 30 Minutes 37 Seconds}
+{comments=4, state=closed, durationTime=0 Days 23 Hours 16 Minutes 42 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=67 Days 9 Hours 56 Minutes 18 Seconds}
+{comments=4, state=closed, durationTime=68 Days 16 Hours 7 Minutes 4 Seconds}
+{comments=4, state=closed, durationTime=9 Days 5 Hours 7 Minutes 37 Seconds}
+{comments=4, state=closed, durationTime=5 Days 18 Hours 42 Minutes 7 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=21 Days 0 Hours 46 Minutes 30 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=2 Days 9 Hours 7 Minutes 22 Seconds}
+{comments=4, state=closed, durationTime=75 Days 3 Hours 13 Minutes 3 Seconds}
+{comments=4, state=closed, durationTime=7 Days 8 Hours 14 Minutes 48 Seconds}
+{comments=4, state=closed, durationTime=12 Days 16 Hours 21 Minutes 17 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=10 Days 7 Hours 9 Minutes 11 Seconds}
+{comments=4, state=closed, durationTime=842 Days 23 Hours 56 Minutes 0 Seconds}
+{comments=4, state=closed, durationTime=82 Days 2 Hours 10 Minutes 16 Seconds}
+{comments=4, state=open, durationTime=No}
+{comments=4, state=closed, durationTime=34 Days 11 Hours 29 Minutes 45 Seconds}
+{comments=3, state=closed, durationTime=43 Days 4 Hours 27 Minutes 28 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=1 Days 10 Hours 22 Minutes 0 Seconds}
+{comments=3, state=closed, durationTime=5 Days 19 Hours 32 Minutes 42 Seconds}
+{comments=3, state=closed, durationTime=4 Days 10 Hours 31 Minutes 35 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=3 Days 20 Hours 57 Minutes 18 Seconds}
+{comments=3, state=closed, durationTime=0 Days 23 Hours 58 Minutes 57 Seconds}
+{comments=3, state=closed, durationTime=13 Days 4 Hours 34 Minutes 17 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=35 Days 2 Hours 49 Minutes 26 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=2 Days 4 Hours 49 Minutes 20 Seconds}
+{comments=3, state=closed, durationTime=0 Days 5 Hours 33 Minutes 11 Seconds}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 28 Minutes 50 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=46 Days 4 Hours 40 Minutes 48 Seconds}
+{comments=3, state=closed, durationTime=0 Days 2 Hours 15 Minutes 21 Seconds}
+{comments=3, state=closed, durationTime=8 Days 19 Hours 52 Minutes 13 Seconds}
+{comments=3, state=closed, durationTime=81 Days 13 Hours 42 Minutes 7 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=92 Days 0 Hours 57 Minutes 53 Seconds}
+{comments=3, state=closed, durationTime=79 Days 10 Hours 15 Minutes 44 Seconds}
+{comments=3, state=closed, durationTime=9 Days 0 Hours 48 Minutes 19 Seconds}
+{comments=3, state=closed, durationTime=0 Days 2 Hours 12 Minutes 46 Seconds}
+{comments=3, state=closed, durationTime=123 Days 0 Hours 17 Minutes 6 Seconds}
+{comments=3, state=closed, durationTime=31 Days 4 Hours 5 Minutes 47 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=17 Days 21 Hours 4 Minutes 41 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=65 Days 23 Hours 44 Minutes 21 Seconds}
+{comments=3, state=closed, durationTime=0 Days 1 Hours 52 Minutes 13 Seconds}
+{comments=3, state=closed, durationTime=123 Days 15 Hours 41 Minutes 55 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=78 Days 20 Hours 24 Minutes 27 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=31 Days 21 Hours 9 Minutes 39 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 2 Hours 53 Minutes 59 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 20 Hours 47 Minutes 13 Seconds}
+{comments=3, state=closed, durationTime=23 Days 7 Hours 7 Minutes 26 Seconds}
+{comments=3, state=closed, durationTime=27 Days 3 Hours 8 Minutes 14 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 11 Hours 0 Minutes 40 Seconds}
+{comments=3, state=closed, durationTime=6 Days 7 Hours 18 Minutes 55 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=1 Days 2 Hours 4 Minutes 25 Seconds}
+{comments=3, state=closed, durationTime=12 Days 8 Hours 2 Minutes 38 Seconds}
+{comments=3, state=closed, durationTime=2 Days 14 Hours 7 Minutes 22 Seconds}
+{comments=3, state=closed, durationTime=1 Days 22 Hours 37 Minutes 14 Seconds}
+{comments=3, state=closed, durationTime=2 Days 18 Hours 27 Minutes 5 Seconds}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 30 Minutes 0 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=67 Days 2 Hours 36 Minutes 23 Seconds}
+{comments=3, state=closed, durationTime=6 Days 23 Hours 57 Minutes 50 Seconds}
+{comments=3, state=closed, durationTime=6 Days 12 Hours 26 Minutes 46 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=34 Days 9 Hours 40 Minutes 56 Seconds}
+{comments=3, state=closed, durationTime=35 Days 19 Hours 59 Minutes 8 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=47 Days 4 Hours 5 Minutes 5 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=94 Days 13 Hours 4 Minutes 48 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=6 Days 4 Hours 15 Minutes 2 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=12 Days 15 Hours 31 Minutes 13 Seconds}
+{comments=3, state=closed, durationTime=16 Days 16 Hours 25 Minutes 9 Seconds}
+{comments=3, state=closed, durationTime=33 Days 17 Hours 20 Minutes 56 Seconds}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 25 Minutes 19 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 21 Hours 30 Minutes 37 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=15 Days 13 Hours 41 Minutes 2 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=70 Days 20 Hours 34 Minutes 41 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=1 Days 6 Hours 41 Minutes 48 Seconds}
+{comments=3, state=closed, durationTime=122 Days 18 Hours 19 Minutes 56 Seconds}
+{comments=3, state=closed, durationTime=1 Days 17 Hours 53 Minutes 40 Seconds}
+{comments=3, state=closed, durationTime=4 Days 19 Hours 50 Minutes 23 Seconds}
+{comments=3, state=closed, durationTime=4 Days 21 Hours 10 Minutes 0 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=7 Days 11 Hours 37 Minutes 0 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=1 Days 23 Hours 40 Minutes 29 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 2 Minutes 6 Seconds}
+{comments=3, state=closed, durationTime=3 Days 22 Hours 15 Minutes 38 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=2 Days 21 Hours 18 Minutes 54 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=24 Days 0 Hours 24 Minutes 26 Seconds}
+{comments=3, state=closed, durationTime=89 Days 21 Hours 23 Minutes 54 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 16 Minutes 2 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=0 Days 9 Hours 5 Minutes 38 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=11 Days 23 Hours 0 Minutes 18 Seconds}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 26 Minutes 26 Seconds}
+{comments=3, state=closed, durationTime=27 Days 1 Hours 52 Minutes 55 Seconds}
+{comments=3, state=closed, durationTime=114 Days 20 Hours 43 Minutes 26 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=4 Days 19 Hours 3 Minutes 25 Seconds}
+{comments=3, state=closed, durationTime=19 Days 23 Hours 41 Minutes 0 Seconds}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 5 Minutes 10 Seconds}
+{comments=3, state=closed, durationTime=0 Days 0 Hours 52 Minutes 28 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=7 Days 20 Hours 23 Minutes 15 Seconds}
+{comments=3, state=open, durationTime=No}
+{comments=3, state=closed, durationTime=2 Days 16 Hours 55 Minutes 26 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=8 Days 22 Hours 14 Minutes 4 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=3 Days 16 Hours 48 Minutes 0 Seconds}
+{comments=2, state=closed, durationTime=108 Days 7 Hours 41 Minutes 1 Seconds}
+{comments=2, state=closed, durationTime=1 Days 4 Hours 8 Minutes 46 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 6 Hours 11 Minutes 20 Seconds}
+{comments=2, state=closed, durationTime=6 Days 3 Hours 14 Minutes 7 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=5 Days 9 Hours 10 Minutes 51 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 5 Minutes 40 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=95 Days 1 Hours 3 Minutes 57 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=1 Days 2 Hours 30 Minutes 35 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 14 Hours 40 Minutes 25 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=4 Days 10 Hours 1 Minutes 1 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 21 Hours 33 Minutes 13 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=34 Days 14 Hours 35 Minutes 3 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 2 Hours 36 Minutes 29 Seconds}
+{comments=2, state=closed, durationTime=0 Days 4 Hours 57 Minutes 19 Seconds}
+{comments=2, state=closed, durationTime=270 Days 1 Hours 19 Minutes 12 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=193 Days 14 Hours 0 Minutes 38 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 41 Minutes 28 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=9 Days 18 Hours 16 Minutes 36 Seconds}
+{comments=2, state=closed, durationTime=31 Days 1 Hours 4 Minutes 44 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=12 Days 9 Hours 34 Minutes 25 Seconds}
+{comments=2, state=closed, durationTime=379 Days 0 Hours 30 Minutes 3 Seconds}
+{comments=2, state=closed, durationTime=22 Days 17 Hours 28 Minutes 18 Seconds}
+{comments=2, state=closed, durationTime=1 Days 0 Hours 0 Minutes 1 Seconds}
+{comments=2, state=closed, durationTime=2 Days 1 Hours 38 Minutes 16 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=3 Days 20 Hours 22 Minutes 40 Seconds}
+{comments=2, state=closed, durationTime=10 Days 23 Hours 57 Minutes 8 Seconds}
+{comments=2, state=closed, durationTime=8 Days 16 Hours 43 Minutes 34 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 1 Hours 30 Minutes 49 Seconds}
+{comments=2, state=closed, durationTime=131 Days 1 Hours 17 Minutes 43 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=82 Days 11 Hours 26 Minutes 50 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=90 Days 10 Hours 26 Minutes 44 Seconds}
+{comments=2, state=closed, durationTime=88 Days 15 Hours 44 Minutes 15 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=109 Days 19 Hours 9 Minutes 6 Seconds}
+{comments=2, state=closed, durationTime=4 Days 20 Hours 19 Minutes 33 Seconds}
+{comments=2, state=closed, durationTime=183 Days 22 Hours 19 Minutes 16 Seconds}
+{comments=2, state=closed, durationTime=8 Days 21 Hours 38 Minutes 35 Seconds}
+{comments=2, state=closed, durationTime=123 Days 5 Hours 14 Minutes 26 Seconds}
+{comments=2, state=closed, durationTime=30 Days 19 Hours 32 Minutes 23 Seconds}
+{comments=2, state=closed, durationTime=31 Days 1 Hours 25 Minutes 28 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=152 Days 21 Hours 25 Minutes 33 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=82 Days 6 Hours 41 Minutes 57 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=20 Days 21 Hours 31 Minutes 22 Seconds}
+{comments=2, state=closed, durationTime=25 Days 18 Hours 27 Minutes 44 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 1 Hours 46 Minutes 5 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=42 Days 23 Hours 46 Minutes 42 Seconds}
+{comments=2, state=closed, durationTime=588 Days 6 Hours 45 Minutes 22 Seconds}
+{comments=2, state=closed, durationTime=2 Days 23 Hours 31 Minutes 2 Seconds}
+{comments=2, state=closed, durationTime=0 Days 10 Hours 16 Minutes 13 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=3 Days 11 Hours 21 Minutes 24 Seconds}
+{comments=2, state=closed, durationTime=3 Days 13 Hours 4 Minutes 11 Seconds}
+{comments=2, state=closed, durationTime=18 Days 19 Hours 45 Minutes 32 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=1 Days 11 Hours 17 Minutes 32 Seconds}
+{comments=2, state=closed, durationTime=3 Days 22 Hours 36 Minutes 27 Seconds}
+{comments=2, state=closed, durationTime=34 Days 19 Hours 39 Minutes 44 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 10 Hours 47 Minutes 43 Seconds}
+{comments=2, state=closed, durationTime=21 Days 4 Hours 5 Minutes 58 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 19 Minutes 28 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 20 Minutes 7 Seconds}
+{comments=2, state=closed, durationTime=2 Days 17 Hours 1 Minutes 44 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 23 Minutes 19 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=29 Days 6 Hours 23 Minutes 55 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=9 Days 10 Hours 6 Minutes 17 Seconds}
+{comments=2, state=closed, durationTime=2 Days 2 Hours 18 Minutes 47 Seconds}
+{comments=2, state=closed, durationTime=1 Days 1 Hours 43 Minutes 34 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=26 Days 7 Hours 19 Minutes 40 Seconds}
+{comments=2, state=closed, durationTime=26 Days 13 Hours 11 Minutes 5 Seconds}
+{comments=2, state=closed, durationTime=0 Days 14 Hours 30 Minutes 2 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=2 Days 21 Hours 20 Minutes 41 Seconds}
+{comments=2, state=closed, durationTime=3 Days 7 Hours 44 Minutes 53 Seconds}
+{comments=2, state=closed, durationTime=34 Days 9 Hours 7 Minutes 4 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 9 Minutes 47 Seconds}
+{comments=2, state=closed, durationTime=2 Days 9 Hours 19 Minutes 49 Seconds}
+{comments=2, state=closed, durationTime=9 Days 1 Hours 19 Minutes 45 Seconds}
+{comments=2, state=closed, durationTime=330 Days 1 Hours 9 Minutes 4 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=15 Days 3 Hours 25 Minutes 40 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=5 Days 9 Hours 2 Minutes 13 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 12 Minutes 24 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 1 Hours 24 Minutes 53 Seconds}
+{comments=2, state=closed, durationTime=0 Days 18 Hours 14 Minutes 21 Seconds}
+{comments=2, state=closed, durationTime=11 Days 7 Hours 51 Minutes 15 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 3 Hours 52 Minutes 1 Seconds}
+{comments=2, state=closed, durationTime=0 Days 4 Hours 44 Minutes 22 Seconds}
+{comments=2, state=closed, durationTime=0 Days 10 Hours 9 Minutes 25 Seconds}
+{comments=2, state=closed, durationTime=0 Days 7 Hours 59 Minutes 12 Seconds}
+{comments=2, state=closed, durationTime=1 Days 22 Hours 48 Minutes 20 Seconds}
+{comments=2, state=closed, durationTime=2 Days 8 Hours 6 Minutes 49 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=3 Days 13 Hours 35 Minutes 45 Seconds}
+{comments=2, state=closed, durationTime=3 Days 15 Hours 8 Minutes 27 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=4 Days 23 Hours 22 Minutes 53 Seconds}
+{comments=2, state=closed, durationTime=14 Days 17 Hours 12 Minutes 36 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=10 Days 1 Hours 57 Minutes 36 Seconds}
+{comments=2, state=closed, durationTime=0 Days 10 Hours 0 Minutes 55 Seconds}
+{comments=2, state=closed, durationTime=32 Days 1 Hours 44 Minutes 51 Seconds}
+{comments=2, state=closed, durationTime=1 Days 0 Hours 36 Minutes 40 Seconds}
+{comments=2, state=closed, durationTime=52 Days 8 Hours 17 Minutes 35 Seconds}
+{comments=2, state=closed, durationTime=15 Days 4 Hours 14 Minutes 5 Seconds}
+{comments=2, state=closed, durationTime=0 Days 6 Hours 20 Minutes 7 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=19 Days 22 Hours 31 Minutes 13 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=11 Days 15 Hours 30 Minutes 19 Seconds}
+{comments=2, state=closed, durationTime=1 Days 4 Hours 29 Minutes 18 Seconds}
+{comments=2, state=closed, durationTime=1 Days 6 Hours 10 Minutes 22 Seconds}
+{comments=2, state=closed, durationTime=2 Days 23 Hours 53 Minutes 35 Seconds}
+{comments=2, state=closed, durationTime=4 Days 23 Hours 24 Minutes 23 Seconds}
+{comments=2, state=closed, durationTime=18 Days 7 Hours 31 Minutes 59 Seconds}
+{comments=2, state=closed, durationTime=7 Days 20 Hours 2 Minutes 15 Seconds}
+{comments=2, state=closed, durationTime=49 Days 21 Hours 16 Minutes 36 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=11 Days 17 Hours 5 Minutes 10 Seconds}
+{comments=2, state=closed, durationTime=5 Days 10 Hours 40 Minutes 28 Seconds}
+{comments=2, state=closed, durationTime=6 Days 1 Hours 22 Minutes 32 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=30 Days 8 Hours 37 Minutes 15 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=11 Days 9 Hours 19 Minutes 12 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 1 Minutes 50 Seconds}
+{comments=2, state=closed, durationTime=86 Days 20 Hours 49 Minutes 11 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=1035 Days 1 Hours 17 Minutes 3 Seconds}
+{comments=2, state=closed, durationTime=2 Days 4 Hours 49 Minutes 2 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=7 Days 4 Hours 48 Minutes 27 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 13 Hours 36 Minutes 14 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=2 Days 4 Hours 42 Minutes 22 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 16 Minutes 1 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 14 Minutes 6 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=20 Days 17 Hours 47 Minutes 51 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 7 Hours 34 Minutes 4 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 23 Minutes 15 Seconds}
+{comments=2, state=closed, durationTime=35 Days 0 Hours 51 Minutes 51 Seconds}
+{comments=2, state=closed, durationTime=0 Days 16 Hours 16 Minutes 59 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 12 Minutes 36 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 2 Hours 42 Minutes 40 Seconds}
+{comments=2, state=closed, durationTime=1 Days 23 Hours 30 Minutes 30 Seconds}
+{comments=2, state=closed, durationTime=0 Days 5 Hours 39 Minutes 51 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=13 Days 11 Hours 16 Minutes 30 Seconds}
+{comments=2, state=closed, durationTime=1 Days 7 Hours 7 Minutes 50 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=1 Days 19 Hours 21 Minutes 28 Seconds}
+{comments=2, state=closed, durationTime=993 Days 16 Hours 7 Minutes 21 Seconds}
+{comments=2, state=closed, durationTime=0 Days 2 Hours 43 Minutes 28 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=238 Days 12 Hours 48 Minutes 52 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 8 Hours 14 Minutes 6 Seconds}
+{comments=2, state=closed, durationTime=7 Days 20 Hours 52 Minutes 33 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 23 Minutes 39 Seconds}
+{comments=2, state=closed, durationTime=42 Days 15 Hours 32 Minutes 40 Seconds}
+{comments=2, state=closed, durationTime=35 Days 5 Hours 58 Minutes 17 Seconds}
+{comments=2, state=closed, durationTime=0 Days 5 Hours 26 Minutes 16 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 24 Minutes 41 Seconds}
+{comments=2, state=closed, durationTime=1 Days 1 Hours 53 Minutes 33 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=1 Days 19 Hours 35 Minutes 17 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=1 Days 14 Hours 44 Minutes 24 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=11 Days 1 Hours 12 Minutes 54 Seconds}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 21 Minutes 47 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=16 Days 21 Hours 11 Minutes 10 Seconds}
+{comments=2, state=closed, durationTime=3 Days 21 Hours 55 Minutes 13 Seconds}
+{comments=2, state=closed, durationTime=14 Days 2 Hours 46 Minutes 14 Seconds}
+{comments=2, state=closed, durationTime=38 Days 1 Hours 59 Minutes 2 Seconds}
+{comments=2, state=closed, durationTime=2 Days 20 Hours 27 Minutes 39 Seconds}
+{comments=2, state=closed, durationTime=78 Days 3 Hours 40 Minutes 8 Seconds}
+{comments=2, state=closed, durationTime=7 Days 10 Hours 29 Minutes 59 Seconds}
+{comments=2, state=closed, durationTime=18 Days 23 Hours 56 Minutes 19 Seconds}
+{comments=2, state=closed, durationTime=10 Days 15 Hours 48 Minutes 28 Seconds}
+{comments=2, state=closed, durationTime=42 Days 19 Hours 7 Minutes 3 Seconds}
+{comments=2, state=closed, durationTime=223 Days 16 Hours 14 Minutes 23 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=39 Days 0 Hours 48 Minutes 46 Seconds}
+{comments=2, state=open, durationTime=No}
+{comments=2, state=closed, durationTime=0 Days 0 Hours 9 Minutes 32 Seconds}
+{comments=2, state=closed, durationTime=7 Days 21 Hours 7 Minutes 47 Seconds}
+{comments=2, state=closed, durationTime=62 Days 18 Hours 34 Minutes 43 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 8 Hours 3 Minutes 17 Seconds}
+{comments=1, state=closed, durationTime=4 Days 5 Hours 29 Minutes 54 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 0 Minutes 8 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=31 Days 6 Hours 39 Minutes 57 Seconds}
+{comments=1, state=closed, durationTime=34 Days 11 Hours 33 Minutes 28 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=5 Days 18 Hours 17 Minutes 24 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=45 Days 2 Hours 54 Minutes 10 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=72 Days 0 Hours 18 Minutes 50 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 19 Minutes 54 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=80 Days 12 Hours 45 Minutes 47 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=87 Days 7 Hours 46 Minutes 38 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=94 Days 1 Hours 16 Minutes 5 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=2 Days 15 Hours 59 Minutes 28 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=118 Days 21 Hours 45 Minutes 36 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 8 Minutes 20 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 52 Minutes 19 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=4 Days 2 Hours 21 Minutes 21 Seconds}
+{comments=1, state=closed, durationTime=4 Days 14 Hours 5 Minutes 44 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 32 Minutes 9 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=11 Days 18 Hours 34 Minutes 14 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=10 Days 23 Hours 26 Minutes 27 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 5 Minutes 20 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 10 Hours 8 Minutes 51 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 3 Minutes 33 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 14 Hours 52 Minutes 32 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 8 Minutes 9 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 3 Hours 0 Minutes 25 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 10 Minutes 59 Seconds}
+{comments=1, state=closed, durationTime=0 Days 8 Hours 55 Minutes 48 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 8 Hours 6 Minutes 33 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 1 Minutes 36 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 19 Hours 54 Minutes 13 Seconds}
+{comments=1, state=closed, durationTime=8 Days 3 Hours 49 Minutes 46 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 18 Minutes 28 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 23 Hours 46 Minutes 43 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 8 Minutes 14 Seconds}
+{comments=1, state=closed, durationTime=6 Days 17 Hours 5 Minutes 9 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 0 Minutes 16 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 1 Minutes 5 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=39 Days 1 Hours 20 Minutes 35 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 1 Minutes 29 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 4 Hours 29 Minutes 59 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=15 Days 5 Hours 35 Minutes 50 Seconds}
+{comments=1, state=closed, durationTime=0 Days 2 Hours 59 Minutes 20 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 18 Hours 40 Minutes 3 Seconds}
+{comments=1, state=closed, durationTime=0 Days 15 Hours 57 Minutes 26 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 6 Hours 9 Minutes 3 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=4 Days 13 Hours 53 Minutes 7 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=65 Days 0 Hours 42 Minutes 7 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 16 Hours 11 Minutes 5 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 53 Minutes 44 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 8 Minutes 56 Seconds}
+{comments=1, state=closed, durationTime=221 Days 5 Hours 6 Minutes 26 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=5 Days 15 Hours 57 Minutes 59 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=10 Days 20 Hours 9 Minutes 32 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=267 Days 16 Hours 40 Minutes 0 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 20 Hours 2 Minutes 39 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=2 Days 0 Hours 26 Minutes 15 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=9 Days 14 Hours 29 Minutes 57 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 19 Hours 49 Minutes 20 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 55 Minutes 36 Seconds}
+{comments=1, state=closed, durationTime=37 Days 15 Hours 7 Minutes 42 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=260 Days 14 Hours 25 Minutes 44 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=14 Days 23 Hours 6 Minutes 5 Seconds}
+{comments=1, state=closed, durationTime=15 Days 0 Hours 4 Minutes 26 Seconds}
+{comments=1, state=closed, durationTime=15 Days 0 Hours 6 Minutes 59 Seconds}
+{comments=1, state=closed, durationTime=54 Days 7 Hours 18 Minutes 44 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=58 Days 20 Hours 1 Minutes 39 Seconds}
+{comments=1, state=closed, durationTime=57 Days 1 Hours 18 Minutes 7 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=72 Days 8 Hours 42 Minutes 36 Seconds}
+{comments=1, state=closed, durationTime=75 Days 12 Hours 15 Minutes 24 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=76 Days 19 Hours 29 Minutes 58 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=45 Days 19 Hours 41 Minutes 31 Seconds}
+{comments=1, state=closed, durationTime=84 Days 22 Hours 17 Minutes 0 Seconds}
+{comments=1, state=closed, durationTime=2 Days 1 Hours 37 Minutes 53 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=9 Days 1 Hours 43 Minutes 7 Seconds}
+{comments=1, state=closed, durationTime=105 Days 18 Hours 6 Minutes 11 Seconds}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 3 Minutes 6 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=380 Days 6 Hours 36 Minutes 51 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=2 Days 20 Hours 39 Minutes 29 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 1 Minutes 48 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 27 Minutes 29 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=60 Days 22 Hours 24 Minutes 34 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 46 Minutes 51 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 8 Minutes 25 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 16 Hours 38 Minutes 11 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 8 Minutes 48 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 19 Minutes 23 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=81 Days 6 Hours 42 Minutes 38 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=7 Days 22 Hours 29 Minutes 9 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=17 Days 7 Hours 46 Minutes 1 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=16 Days 22 Hours 52 Minutes 50 Seconds}
+{comments=1, state=closed, durationTime=0 Days 13 Hours 26 Minutes 10 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 29 Minutes 30 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=122 Days 16 Hours 50 Minutes 48 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=219 Days 9 Hours 15 Minutes 35 Seconds}
+{comments=1, state=closed, durationTime=122 Days 17 Hours 57 Minutes 12 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 55 Minutes 52 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=2 Days 8 Hours 5 Minutes 22 Seconds}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 32 Minutes 44 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 7 Minutes 13 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=242 Days 13 Hours 6 Minutes 24 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 2 Hours 26 Minutes 44 Seconds}
+{comments=1, state=closed, durationTime=1 Days 5 Hours 50 Minutes 28 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=174 Days 17 Hours 50 Minutes 19 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=20 Days 4 Hours 59 Minutes 14 Seconds}
+{comments=1, state=closed, durationTime=24 Days 15 Hours 24 Minutes 12 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 21 Minutes 3 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=37 Days 18 Hours 50 Minutes 5 Seconds}
+{comments=1, state=closed, durationTime=7 Days 7 Hours 42 Minutes 19 Seconds}
+{comments=1, state=closed, durationTime=9 Days 18 Hours 46 Minutes 24 Seconds}
+{comments=1, state=closed, durationTime=18 Days 21 Hours 14 Minutes 6 Seconds}
+{comments=1, state=closed, durationTime=17 Days 0 Hours 21 Minutes 21 Seconds}
+{comments=1, state=closed, durationTime=17 Days 3 Hours 2 Minutes 14 Seconds}
+{comments=1, state=closed, durationTime=17 Days 7 Hours 36 Minutes 34 Seconds}
+{comments=1, state=closed, durationTime=18 Days 3 Hours 30 Minutes 26 Seconds}
+{comments=1, state=closed, durationTime=293 Days 0 Hours 56 Minutes 27 Seconds}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 20 Minutes 0 Seconds}
+{comments=1, state=closed, durationTime=0 Days 10 Hours 0 Minutes 1 Seconds}
+{comments=1, state=closed, durationTime=2 Days 8 Hours 14 Minutes 29 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=4 Days 20 Hours 3 Minutes 7 Seconds}
+{comments=1, state=closed, durationTime=30 Days 18 Hours 0 Minutes 2 Seconds}
+{comments=1, state=closed, durationTime=31 Days 18 Hours 28 Minutes 11 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 0 Minutes 47 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 0 Minutes 35 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=214 Days 6 Hours 36 Minutes 6 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=8 Days 8 Hours 56 Minutes 6 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 4 Minutes 21 Seconds}
+{comments=1, state=closed, durationTime=0 Days 3 Hours 36 Minutes 24 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=27 Days 19 Hours 44 Minutes 12 Seconds}
+{comments=1, state=closed, durationTime=27 Days 20 Hours 10 Minutes 50 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 0 Hours 51 Minutes 23 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 10 Hours 32 Minutes 19 Seconds}
+{comments=1, state=closed, durationTime=2 Days 20 Hours 33 Minutes 29 Seconds}
+{comments=1, state=closed, durationTime=1 Days 12 Hours 4 Minutes 42 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 13 Hours 51 Minutes 58 Seconds}
+{comments=1, state=closed, durationTime=1 Days 0 Hours 54 Minutes 11 Seconds}
+{comments=1, state=closed, durationTime=1 Days 17 Hours 22 Minutes 13 Seconds}
+{comments=1, state=closed, durationTime=3 Days 2 Hours 42 Minutes 56 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 8 Hours 12 Minutes 55 Seconds}
+{comments=1, state=closed, durationTime=0 Days 22 Hours 17 Minutes 29 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 0 Hours 34 Minutes 31 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 2 Hours 26 Minutes 50 Seconds}
+{comments=1, state=closed, durationTime=3 Days 18 Hours 4 Minutes 24 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=25 Days 11 Hours 25 Minutes 13 Seconds}
+{comments=1, state=closed, durationTime=4 Days 6 Hours 12 Minutes 1 Seconds}
+{comments=1, state=closed, durationTime=27 Days 12 Hours 9 Minutes 1 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=6 Days 16 Hours 51 Minutes 22 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 54 Minutes 30 Seconds}
+{comments=1, state=closed, durationTime=0 Days 20 Hours 57 Minutes 23 Seconds}
+{comments=1, state=closed, durationTime=4 Days 2 Hours 16 Minutes 6 Seconds}
+{comments=1, state=closed, durationTime=3 Days 0 Hours 4 Minutes 10 Seconds}
+{comments=1, state=closed, durationTime=3 Days 10 Hours 31 Minutes 44 Seconds}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 38 Minutes 26 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=9 Days 6 Hours 53 Minutes 11 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=10 Days 10 Hours 26 Minutes 28 Seconds}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 29 Minutes 36 Seconds}
+{comments=1, state=closed, durationTime=0 Days 10 Hours 11 Minutes 25 Seconds}
+{comments=1, state=closed, durationTime=2 Days 7 Hours 7 Minutes 6 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 0 Minutes 57 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=4 Days 12 Hours 59 Minutes 51 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 46 Minutes 41 Seconds}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 13 Minutes 11 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 0 Minutes 49 Seconds}
+{comments=1, state=closed, durationTime=1 Days 6 Hours 9 Minutes 31 Seconds}
+{comments=1, state=closed, durationTime=0 Days 5 Hours 23 Minutes 31 Seconds}
+{comments=1, state=closed, durationTime=1 Days 15 Hours 42 Minutes 53 Seconds}
+{comments=1, state=closed, durationTime=1 Days 17 Hours 8 Minutes 25 Seconds}
+{comments=1, state=closed, durationTime=1 Days 23 Hours 59 Minutes 1 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=6 Days 19 Hours 38 Minutes 32 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=429 Days 12 Hours 57 Minutes 44 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 19 Hours 38 Minutes 34 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 9 Minutes 37 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 18 Hours 26 Minutes 38 Seconds}
+{comments=1, state=closed, durationTime=4 Days 2 Hours 11 Minutes 28 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=24 Days 0 Hours 46 Minutes 12 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 7 Hours 47 Minutes 50 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 18 Hours 50 Minutes 50 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=16 Days 0 Hours 16 Minutes 8 Seconds}
+{comments=1, state=closed, durationTime=22 Days 23 Hours 45 Minutes 21 Seconds}
+{comments=1, state=closed, durationTime=26 Days 9 Hours 58 Minutes 12 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=35 Days 5 Hours 3 Minutes 47 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 43 Minutes 45 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 7 Minutes 45 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 17 Minutes 16 Seconds}
+{comments=1, state=closed, durationTime=1 Days 4 Hours 53 Minutes 52 Seconds}
+{comments=1, state=closed, durationTime=1 Days 11 Hours 38 Minutes 39 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 22 Hours 49 Minutes 26 Seconds}
+{comments=1, state=closed, durationTime=114 Days 2 Hours 17 Minutes 12 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=11 Days 22 Hours 37 Minutes 57 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 3 Hours 31 Minutes 13 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=8 Days 12 Hours 56 Minutes 44 Seconds}
+{comments=1, state=closed, durationTime=95 Days 12 Hours 1 Minutes 30 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=15 Days 9 Hours 28 Minutes 5 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 42 Minutes 39 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 27 Minutes 55 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 3 Hours 32 Minutes 53 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=214 Days 22 Hours 15 Minutes 23 Seconds}
+{comments=1, state=closed, durationTime=5 Days 11 Hours 59 Minutes 44 Seconds}
+{comments=1, state=closed, durationTime=9 Days 9 Hours 58 Minutes 20 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 2 Hours 19 Minutes 54 Seconds}
+{comments=1, state=closed, durationTime=10 Days 18 Hours 36 Minutes 30 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=11 Days 11 Hours 32 Minutes 29 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 24 Minutes 35 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 14 Hours 18 Minutes 26 Seconds}
+{comments=1, state=closed, durationTime=0 Days 2 Hours 5 Minutes 6 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 18 Hours 16 Minutes 40 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=104 Days 23 Hours 59 Minutes 38 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=5 Days 19 Hours 14 Minutes 45 Seconds}
+{comments=1, state=closed, durationTime=13 Days 23 Hours 13 Minutes 2 Seconds}
+{comments=1, state=closed, durationTime=18 Days 23 Hours 13 Minutes 18 Seconds}
+{comments=1, state=closed, durationTime=2 Days 18 Hours 10 Minutes 9 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=29 Days 8 Hours 59 Minutes 56 Seconds}
+{comments=1, state=closed, durationTime=1 Days 6 Hours 24 Minutes 39 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 0 Hours 38 Minutes 28 Seconds}
+{comments=1, state=closed, durationTime=7 Days 7 Hours 25 Minutes 10 Seconds}
+{comments=1, state=closed, durationTime=0 Days 19 Hours 41 Minutes 49 Seconds}
+{comments=1, state=closed, durationTime=0 Days 20 Hours 0 Minutes 21 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=4 Days 23 Hours 9 Minutes 22 Seconds}
+{comments=1, state=closed, durationTime=5 Days 8 Hours 23 Minutes 40 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=10 Days 3 Hours 0 Minutes 9 Seconds}
+{comments=1, state=closed, durationTime=27 Days 6 Hours 53 Minutes 35 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 7 Hours 15 Minutes 42 Seconds}
+{comments=1, state=closed, durationTime=3 Days 2 Hours 39 Minutes 10 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 3 Hours 40 Minutes 33 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 18 Hours 54 Minutes 30 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=2 Days 21 Hours 30 Minutes 19 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 15 Hours 10 Minutes 4 Seconds}
+{comments=1, state=closed, durationTime=220 Days 1 Hours 31 Minutes 22 Seconds}
+{comments=1, state=closed, durationTime=2 Days 6 Hours 2 Minutes 31 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=17 Days 22 Hours 13 Minutes 38 Seconds}
+{comments=1, state=closed, durationTime=3 Days 13 Hours 42 Minutes 40 Seconds}
+{comments=1, state=closed, durationTime=3 Days 13 Hours 50 Minutes 6 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 25 Minutes 19 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 2 Hours 22 Minutes 38 Seconds}
+{comments=1, state=closed, durationTime=80 Days 2 Hours 44 Minutes 15 Seconds}
+{comments=1, state=closed, durationTime=6 Days 21 Hours 55 Minutes 38 Seconds}
+{comments=1, state=closed, durationTime=1 Days 23 Hours 49 Minutes 57 Seconds}
+{comments=1, state=closed, durationTime=2 Days 0 Hours 51 Minutes 58 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=81 Days 3 Hours 49 Minutes 33 Seconds}
+{comments=1, state=closed, durationTime=2 Days 21 Hours 5 Minutes 43 Seconds}
+{comments=1, state=closed, durationTime=10 Days 7 Hours 14 Minutes 19 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 15 Hours 48 Minutes 41 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 2 Minutes 16 Seconds}
+{comments=1, state=closed, durationTime=0 Days 20 Hours 41 Minutes 18 Seconds}
+{comments=1, state=closed, durationTime=1 Days 20 Hours 44 Minutes 57 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 39 Minutes 57 Seconds}
+{comments=1, state=closed, durationTime=8 Days 17 Hours 46 Minutes 6 Seconds}
+{comments=1, state=closed, durationTime=0 Days 5 Hours 0 Minutes 31 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=3 Days 21 Hours 26 Minutes 2 Seconds}
+{comments=1, state=closed, durationTime=90 Days 2 Hours 24 Minutes 41 Seconds}
+{comments=1, state=closed, durationTime=1 Days 23 Hours 23 Minutes 34 Seconds}
+{comments=1, state=closed, durationTime=2 Days 22 Hours 36 Minutes 41 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 31 Minutes 15 Seconds}
+{comments=1, state=closed, durationTime=5 Days 13 Hours 14 Minutes 41 Seconds}
+{comments=1, state=closed, durationTime=3 Days 16 Hours 41 Minutes 15 Seconds}
+{comments=1, state=closed, durationTime=5 Days 15 Hours 14 Minutes 26 Seconds}
+{comments=1, state=closed, durationTime=5 Days 22 Hours 31 Minutes 52 Seconds}
+{comments=1, state=closed, durationTime=49 Days 0 Hours 32 Minutes 24 Seconds}
+{comments=1, state=closed, durationTime=778 Days 0 Hours 10 Minutes 43 Seconds}
+{comments=1, state=closed, durationTime=2 Days 12 Hours 51 Minutes 54 Seconds}
+{comments=1, state=closed, durationTime=7 Days 13 Hours 32 Minutes 54 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=17 Days 13 Hours 35 Minutes 46 Seconds}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 25 Minutes 49 Seconds}
+{comments=1, state=closed, durationTime=26 Days 17 Hours 7 Minutes 26 Seconds}
+{comments=1, state=closed, durationTime=77 Days 18 Hours 56 Minutes 15 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 0 Hours 4 Minutes 38 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=1 Days 22 Hours 30 Minutes 26 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=131 Days 17 Hours 40 Minutes 42 Seconds}
+{comments=1, state=closed, durationTime=8 Days 9 Hours 43 Minutes 9 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=10 Days 14 Hours 10 Minutes 17 Seconds}
+{comments=1, state=closed, durationTime=6 Days 22 Hours 44 Minutes 8 Seconds}
+{comments=1, state=closed, durationTime=24 Days 17 Hours 32 Minutes 39 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=0 Days 1 Hours 21 Minutes 34 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=7 Days 20 Hours 55 Minutes 28 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=closed, durationTime=90 Days 23 Hours 34 Minutes 52 Seconds}
+{comments=1, state=closed, durationTime=0 Days 12 Hours 6 Minutes 15 Seconds}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=1, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 1 Hours 48 Minutes 34 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 3 Hours 56 Minutes 43 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=12 Days 2 Hours 58 Minutes 59 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 20 Hours 55 Minutes 59 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 2 Minutes 45 Seconds}
+{comments=0, state=closed, durationTime=8 Days 16 Hours 33 Minutes 30 Seconds}
+{comments=0, state=closed, durationTime=3 Days 8 Hours 0 Minutes 26 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=18 Days 3 Hours 37 Minutes 44 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=3 Days 2 Hours 47 Minutes 16 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 9 Minutes 7 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 11 Minutes 35 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 8 Hours 32 Minutes 14 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=36 Days 5 Hours 24 Minutes 45 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 6 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 3 Minutes 58 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 5 Hours 42 Minutes 48 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=43 Days 19 Hours 8 Minutes 48 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 22 Minutes 43 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 29 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 23 Hours 32 Minutes 40 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 1 Minutes 23 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 6 Hours 43 Minutes 7 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 2 Minutes 54 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 38 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 1 Minutes 31 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=11 Days 1 Hours 5 Minutes 55 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=270 Days 11 Hours 58 Minutes 8 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=28 Days 10 Hours 10 Minutes 39 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 22 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 13 Hours 37 Minutes 41 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=425 Days 21 Hours 19 Minutes 31 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=21 Days 22 Hours 55 Minutes 1 Seconds}
+{comments=0, state=closed, durationTime=27 Days 7 Hours 8 Minutes 37 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=37 Days 15 Hours 26 Minutes 54 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 2 Hours 2 Minutes 56 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 2 Minutes 41 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 3 Minutes 16 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 3 Minutes 40 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 5 Minutes 12 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 4 Minutes 22 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 4 Minutes 52 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 6 Minutes 3 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 6 Minutes 33 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 6 Minutes 54 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 6 Minutes 29 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 6 Minutes 33 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 9 Minutes 23 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 12 Minutes 21 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 29 Seconds}
+{comments=0, state=closed, durationTime=6 Days 6 Hours 33 Minutes 23 Seconds}
+{comments=0, state=closed, durationTime=64 Days 1 Hours 21 Minutes 54 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 1 Minutes 29 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 2 Minutes 1 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=25 Days 6 Hours 25 Minutes 18 Seconds}
+{comments=0, state=closed, durationTime=27 Days 5 Hours 52 Minutes 47 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 4 Hours 26 Minutes 38 Seconds}
+{comments=0, state=closed, durationTime=0 Days 15 Hours 22 Minutes 54 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 27 Minutes 19 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=43 Days 1 Hours 36 Minutes 3 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 41 Minutes 12 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=64 Days 1 Hours 31 Minutes 25 Seconds}
+{comments=0, state=closed, durationTime=4 Days 11 Hours 42 Minutes 40 Seconds}
+{comments=0, state=closed, durationTime=5 Days 8 Hours 29 Minutes 21 Seconds}
+{comments=0, state=closed, durationTime=79 Days 5 Hours 36 Minutes 57 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 1 Minutes 46 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=227 Days 0 Hours 3 Minutes 25 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=218 Days 20 Hours 14 Minutes 34 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 4 Minutes 1 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 6 Minutes 32 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 29 Minutes 24 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=524 Days 23 Hours 32 Minutes 5 Seconds}
+{comments=0, state=closed, durationTime=4 Days 17 Hours 38 Minutes 29 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 16 Seconds}
+{comments=0, state=closed, durationTime=240 Days 17 Hours 4 Minutes 7 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 28 Minutes 13 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=5 Days 23 Hours 16 Minutes 13 Seconds}
+{comments=0, state=closed, durationTime=0 Days 11 Hours 44 Minutes 20 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=9 Days 18 Hours 40 Minutes 2 Seconds}
+{comments=0, state=closed, durationTime=9 Days 18 Hours 45 Minutes 33 Seconds}
+{comments=0, state=closed, durationTime=9 Days 18 Hours 47 Minutes 12 Seconds}
+{comments=0, state=closed, durationTime=9 Days 18 Hours 48 Minutes 13 Seconds}
+{comments=0, state=closed, durationTime=1 Days 22 Hours 10 Minutes 28 Seconds}
+{comments=0, state=closed, durationTime=19 Days 15 Hours 13 Minutes 18 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 13 Hours 48 Minutes 16 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 17 Hours 6 Minutes 27 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 47 Minutes 29 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=32 Days 19 Hours 1 Minutes 21 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=3 Days 5 Hours 44 Minutes 1 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 1 Minutes 10 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 11 Minutes 53 Seconds}
+{comments=0, state=closed, durationTime=0 Days 3 Hours 29 Minutes 4 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=1 Days 0 Hours 10 Minutes 51 Seconds}
+{comments=0, state=closed, durationTime=1 Days 19 Hours 40 Minutes 12 Seconds}
+{comments=0, state=closed, durationTime=0 Days 22 Hours 5 Minutes 22 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 2 Minutes 27 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 2 Hours 28 Minutes 37 Seconds}
+{comments=0, state=closed, durationTime=0 Days 6 Hours 54 Minutes 47 Seconds}
+{comments=0, state=closed, durationTime=3 Days 14 Hours 59 Minutes 10 Seconds}
+{comments=0, state=closed, durationTime=5 Days 0 Hours 54 Minutes 24 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 16 Hours 24 Minutes 50 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 3 Minutes 45 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=2 Days 7 Hours 6 Minutes 24 Seconds}
+{comments=0, state=closed, durationTime=13 Days 11 Hours 8 Minutes 20 Seconds}
+{comments=0, state=closed, durationTime=0 Days 8 Hours 54 Minutes 35 Seconds}
+{comments=0, state=closed, durationTime=31 Days 10 Hours 4 Minutes 56 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 2 Hours 32 Minutes 24 Seconds}
+{comments=0, state=closed, durationTime=1 Days 15 Hours 56 Minutes 17 Seconds}
+{comments=0, state=closed, durationTime=2 Days 21 Hours 6 Minutes 20 Seconds}
+{comments=0, state=closed, durationTime=3 Days 4 Hours 26 Minutes 0 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=1 Days 21 Hours 41 Minutes 57 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 30 Minutes 51 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 10 Minutes 43 Seconds}
+{comments=0, state=closed, durationTime=59 Days 9 Hours 22 Minutes 43 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 2 Minutes 2 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=2 Days 20 Hours 6 Minutes 11 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=1 Days 4 Hours 23 Minutes 40 Seconds}
+{comments=0, state=closed, durationTime=56 Days 1 Hours 9 Minutes 26 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=2 Days 3 Hours 41 Minutes 20 Seconds}
+{comments=0, state=closed, durationTime=3 Days 0 Hours 41 Minutes 0 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=3 Days 11 Hours 27 Minutes 57 Seconds}
+{comments=0, state=closed, durationTime=3 Days 11 Hours 30 Minutes 27 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=21 Days 0 Hours 16 Minutes 31 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 35 Minutes 46 Seconds}
+{comments=0, state=closed, durationTime=33 Days 1 Hours 3 Minutes 30 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 21 Hours 27 Minutes 9 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=53 Days 15 Hours 41 Minutes 45 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=54 Days 23 Hours 32 Minutes 53 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=73 Days 2 Hours 1 Minutes 38 Seconds}
+{comments=0, state=closed, durationTime=25 Days 0 Hours 47 Minutes 7 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=645 Days 11 Hours 41 Minutes 46 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 33 Minutes 34 Seconds}
+{comments=0, state=closed, durationTime=4 Days 9 Hours 13 Minutes 48 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 4 Minutes 40 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 0 Minutes 6 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=6 Days 1 Hours 15 Minutes 2 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=120 Days 12 Hours 28 Minutes 35 Seconds}
+{comments=0, state=closed, durationTime=29 Days 6 Hours 51 Minutes 37 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=1 Days 17 Hours 57 Minutes 40 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 2 Hours 2 Minutes 44 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=10 Days 9 Hours 46 Minutes 0 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=959 Days 12 Hours 57 Minutes 3 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 8 Hours 22 Minutes 55 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 7 Minutes 1 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=140 Days 5 Hours 25 Minutes 2 Seconds}
+{comments=0, state=closed, durationTime=6 Days 0 Hours 39 Minutes 39 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=9 Days 22 Hours 53 Minutes 1 Seconds}
+{comments=0, state=closed, durationTime=451 Days 23 Hours 41 Minutes 5 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=13 Days 5 Hours 48 Minutes 12 Seconds}
+{comments=0, state=closed, durationTime=250 Days 15 Hours 16 Minutes 55 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 3 Minutes 10 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 22 Minutes 8 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=3 Days 22 Hours 21 Minutes 25 Seconds}
+{comments=0, state=closed, durationTime=0 Days 19 Hours 57 Minutes 35 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 7 Hours 50 Minutes 57 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=82 Days 5 Hours 23 Minutes 31 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 12 Hours 23 Minutes 55 Seconds}
+{comments=0, state=closed, durationTime=0 Days 0 Hours 23 Minutes 19 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=5 Days 4 Hours 0 Minutes 43 Seconds}
+{comments=0, state=closed, durationTime=11 Days 23 Hours 33 Minutes 54 Seconds}
+{comments=0, state=closed, durationTime=4 Days 21 Hours 21 Minutes 24 Seconds}
+{comments=0, state=closed, durationTime=0 Days 22 Hours 49 Minutes 38 Seconds}
+{comments=0, state=closed, durationTime=0 Days 14 Hours 50 Minutes 11 Seconds}
+{comments=0, state=closed, durationTime=0 Days 19 Hours 46 Minutes 46 Seconds}
+{comments=0, state=closed, durationTime=8 Days 0 Hours 20 Minutes 35 Seconds}
+{comments=0, state=closed, durationTime=4 Days 18 Hours 18 Minutes 25 Seconds}
+{comments=0, state=closed, durationTime=7 Days 18 Hours 47 Minutes 59 Seconds}
+{comments=0, state=closed, durationTime=0 Days 3 Hours 20 Minutes 40 Seconds}
+{comments=0, state=closed, durationTime=0 Days 3 Hours 8 Minutes 30 Seconds}
+{comments=0, state=closed, durationTime=4 Days 11 Hours 8 Minutes 59 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=132 Days 18 Hours 34 Minutes 50 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=10 Days 17 Hours 31 Minutes 27 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=295 Days 20 Hours 54 Minutes 42 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=25 Days 2 Hours 59 Minutes 34 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=8 Days 8 Hours 41 Minutes 12 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=10 Days 10 Hours 12 Minutes 27 Seconds}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=open, durationTime=No}
+{comments=0, state=closed, durationTime=0 Days 7 Hours 27 Minutes 17 Seconds}
+{comments=0, state=open, durationTime=No}
+-spy raye ace-
+Total Releases: 84
+{Tag_name=1.2.83, Created_at=2022-05-23 08:55:52, NewCommits=25}
+{Tag_name=1.2.79, Created_at=2021-12-19 20:32:40, NewCommits=68}
+{Tag_name=1.2.76, Created_at=2021-04-05 18:16:16, NewCommits=82}
+{Tag_name=1.2.75, Created_at=2020-11-05 20:52:14, NewCommits=43}
+{Tag_name=1.2.74, Created_at=2020-10-08 21:38:10, NewCommits=56}
+{Tag_name=1.2.73, Created_at=2020-07-26 23:20:14, NewCommits=44}
+{Tag_name=1.2.72, Created_at=2020-06-27 10:23:23, NewCommits=42}
+{Tag_name=1.2.71, Created_at=2020-06-14 23:05:43, NewCommits=36}
+{Tag_name=1.2.70, Created_at=2020-06-01 00:36:33, NewCommits=26}
+{Tag_name=1.2.69, Created_at=2020-05-17 00:00:17, NewCommits=74}
+{Tag_name=1.2.68, Created_at=2020-03-28 11:13:43, NewCommits=23}
+{Tag_name=1.2.67, Created_at=2020-03-19 23:11:06, NewCommits=17}
+{Tag_name=1.2.66, Created_at=2020-03-01 11:55:55, NewCommits=110}
+{Tag_name=1.2.62, Created_at=2019-10-07 21:48:24, NewCommits=49}
+{Tag_name=1.2.61, Created_at=2019-09-20 00:55:58, NewCommits=79}
+{Tag_name=1.2.60, Created_at=2019-09-04 16:36:37, NewCommits=74}
+{Tag_name=1.2.59, Created_at=2019-07-31 21:24:49, NewCommits=30}
+{Tag_name=1.2.58, Created_at=2019-05-03 14:45:06, NewCommits=5}
+{Tag_name=1.1.71.android, Created_at=2019-04-21 16:28:01, NewCommits=6}
+{Tag_name=1.2.57, Created_at=2019-04-11 21:13:29, NewCommits=79}
+{Tag_name=1.2.56, Created_at=2019-01-27 00:14:35, NewCommits=15}
+{Tag_name=1.2.55, Created_at=2019-01-20 19:35:47, NewCommits=73}
+{Tag_name=1.2.54, Created_at=2018-11-29 19:55:54, NewCommits=16}
+{Tag_name=1.2.52, Created_at=2018-11-18 16:03:59, NewCommits=30}
+{Tag_name=1.2.51, Created_at=2018-09-14 12:24:38, NewCommits=83}
+{Tag_name=1.2.49, Created_at=2018-08-05 06:32:23, NewCommits=113}
+{Tag_name=1.2.47, Created_at=2018-03-15 17:14:03, NewCommits=20}
+{Tag_name=1.2.46, Created_at=2018-02-05 14:47:07, NewCommits=11}
+{Tag_name=1.2.45, Created_at=2018-01-21 14:51:25, NewCommits=11}
+{Tag_name=1.1.68.android, Created_at=2018-01-01 23:12:20, NewCommits=4}
+{Tag_name=1.2.44, Created_at=2017-12-21 10:23:07, NewCommits=16}
+{Tag_name=1.2.43, Created_at=2017-12-16 12:47:13, NewCommits=20}
+{Tag_name=1.2.42, Created_at=2017-12-12 15:03:03, NewCommits=41}
+{Tag_name=1.2.41, Created_at=2017-11-17 20:09:22, NewCommits=0}
+{Tag_name=1.1.67.android, Created_at=2017-11-17 20:43:09, NewCommits=27}
+{Tag_name=1.2.40, Created_at=2017-11-04 14:50:12, NewCommits=11}
+{Tag_name=1.1.65.android, Created_at=2017-11-03 15:13:20, NewCommits=35}
+{Tag_name=1.1.64.android, Created_at=2017-10-08 14:03:55, NewCommits=33}
+{Tag_name=1.2.39, Created_at=2017-10-01 22:43:01, NewCommits=47}
+{Tag_name=1.1.63.android, Created_at=2017-09-03 23:38:39, NewCommits=1}
+{Tag_name=1.2.38, Created_at=2017-09-01 20:42:21, NewCommits=31}
+{Tag_name=1.2.37, Created_at=2017-08-16 22:01:03, NewCommits=0}
+{Tag_name=1.1.62.android, Created_at=2017-08-16 22:23:57, NewCommits=43}
+{Tag_name=1.2.36, Created_at=2017-08-09 00:38:38, NewCommits=3}
+{Tag_name=1.1.61.android, Created_at=2017-08-08 22:09:33, NewCommits=94}
+{Tag_name=1.1.60.android, Created_at=2017-07-23 05:50:59, NewCommits=18}
+{Tag_name=1.2.35, Created_at=2017-07-16 12:39:23, NewCommits=18}
+{Tag_name=1.2.34, Created_at=2017-07-02 20:08:06, NewCommits=4}
+{Tag_name=1.1.59.android, Created_at=2017-07-02 11:48:34, NewCommits=43}
+{Tag_name=1.2.33, Created_at=2017-06-12 01:17:14, NewCommits=31}
+{Tag_name=1.1.58.android, Created_at=2017-05-31 00:10:44, NewCommits=36}
+{Tag_name=1.2.32, Created_at=2017-05-10 01:49:19, NewCommits=16}
+{Tag_name=1.1.57.android, Created_at=2017-05-02 22:18:27, NewCommits=25}
+{Tag_name=1.2.31, Created_at=2017-04-03 15:41:05, NewCommits=27}
+{Tag_name=1.2.30, Created_at=2017-03-26 11:23:53, NewCommits=25}
+{Tag_name=1.2.29, Created_at=2017-03-16 17:46:37, NewCommits=78}
+{Tag_name=1.2.24, Created_at=2017-01-19 17:06:34, NewCommits=10}
+{Tag_name=1.1.56.android, Created_at=2017-01-15 12:53:51, NewCommits=30}
+{Tag_name=1.2.23, Created_at=2016-12-20 10:48:00, NewCommits=18}
+{Tag_name=1.2.22, Created_at=2016-12-10 14:39:09, NewCommits=21}
+{Tag_name=1.1.55.android, Created_at=2016-11-20 16:03:09, NewCommits=10}
+{Tag_name=1.2.21, Created_at=2016-11-13 05:44:14, NewCommits=21}
+{Tag_name=1.2.20, Created_at=2016-10-22 12:05:27, NewCommits=8}
+{Tag_name=1.2.19, Created_at=2016-10-20 11:41:25, NewCommits=7}
+{Tag_name=1.2.18, Created_at=2016-10-15 13:49:38, NewCommits=26}
+{Tag_name=1.2.17, Created_at=2016-09-06 11:25:39, NewCommits=17}
+{Tag_name=1.1.54.android, Created_at=2016-08-28 20:39:18, NewCommits=14}
+{Tag_name=1.2.16, Created_at=2016-08-14 19:51:32, NewCommits=0}
+{Tag_name=1.1.53.android, Created_at=2016-08-14 23:26:46, NewCommits=27}
+{Tag_name=1.2.15, Created_at=2016-07-31 16:26:11, NewCommits=26}
+{Tag_name=1.2.14, Created_at=2016-07-17 19:38:05, NewCommits=24}
+{Tag_name=1.2.13, Created_at=2016-06-27 23:34:40, NewCommits=37}
+{Tag_name=1.2.12, Created_at=2016-05-22 00:36:03, NewCommits=8}
+{Tag_name=1.1.52.android, Created_at=2016-05-21 04:00:59, NewCommits=100}
+{Tag_name=1.2.11_release, Created_at=2016-05-02 13:41:49, NewCommits=22}
+{Tag_name=1.1.51-android, Created_at=2016-05-01 22:25:19, NewCommits=250}
+{Tag_name=1.2.10, Created_at=2016-04-23 22:45:01, NewCommits=11}
+{Tag_name=1.1.50-android, Created_at=2016-04-23 17:26:21, NewCommits=142}
+{Tag_name=1.2.9, Created_at=2016-04-18 20:18:01, NewCommits=24}
+{Tag_name=1.1.49-android, Created_at=2016-04-17 20:54:17, NewCommits=119}
+{Tag_name=1.1.48-android, Created_at=2016-04-11 00:29:51, NewCommits=44}
+{Tag_name=1.1.47-android, Created_at=2016-04-04 12:18:40, NewCommits=46}
+{Tag_name=1.2.8, Created_at=2016-02-28 16:59:40, NewCommits=112}
+{Tag_name=1.2.4, Created_at=2015-01-14 17:58:34, NewCommits=0}
+-spy raye ace-
 Total
 --------------
 Morning: 863

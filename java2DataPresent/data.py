@@ -320,7 +320,7 @@ class SourceData(SourceDataDemo):
         按照 SourceDataDemo 的格式覆盖数据即可
         """
         super().__init__()
-        self.loadfile('fastjson.txt')
+        self.loadfile('spring-cloud.txt')
 
 
 class CorpData(SourceDataDemo):
@@ -330,20 +330,7 @@ class CorpData(SourceDataDemo):
         按照 SourceDataDemo 的格式覆盖数据即可
         """
         super().__init__()
-        with open('corp.json', 'r', encoding='utf-8') as f:
-            data = json.loads(f.read())
-        self.title = data.get('title')
-        self.counter = data.get('counter')
-        self.counter2 = data.get('counter2')
-        self.echart1_data = data.get('echart1_data')
-        self.echart2_data = data.get('echart2_data')
-        self.echarts3_1_data = data.get('echarts3_1_data')
-        self.echarts3_2_data = data.get('echarts3_2_data')
-        self.echarts3_3_data = data.get('echarts3_3_data')
-        self.echart4_data = data.get('echart4_data')
-        self.echart5_data = data.get('echart5_data')
-        self.echart6_data = data.get('echart6_data')
-        self.map_1_data = data.get('map_1_data')
+        self.loadfile('arthas.txt')
 
 
 class JobData(SourceDataDemo):
@@ -353,17 +340,4 @@ class JobData(SourceDataDemo):
         按照 SourceDataDemo 的格式覆盖数据即可
         """
         super().__init__()
-        with open('job.json', 'r', encoding='utf-8') as f:
-            data = json.loads(f.read())
-        self.title = data.get('title')
-        self.counter = data.get('counter')
-        self.counter2 = data.get('counter2')
-        self.echart1_data = data.get('echart1_data')
-        self.echart2_data = data.get('echart2_data')
-        self.echarts3_1_data = data.get('echarts3_1_data')
-        self.echarts3_2_data = data.get('echarts3_2_data')
-        self.echarts3_3_data = data.get('echarts3_3_data')
-        self.echart4_data = data.get('echart4_data')
-        self.echart5_data = data.get('echart5_data')
-        self.echart6_data = data.get('echart6_data')
-        self.map_1_data = data.get('map_1_data')
+        self.loadfile('fastjson.txt')

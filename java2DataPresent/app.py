@@ -17,13 +17,13 @@ def index():
     return render_template('index.html', form=data, title=data.title)
 
 
-@app.route('/corp')
+@app.route('/arthas')
 def corp():
     data = CorpData()
     return render_template('index.html', form=data, title=data.title)
 
 
-@app.route('/job')
+@app.route('/fastjson')
 def job():
     data = JobData()
     return render_template('index.html', form=data, title=data.title)

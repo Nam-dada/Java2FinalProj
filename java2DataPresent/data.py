@@ -141,8 +141,7 @@ class SourceDataDemo:
             if isu[-3:-1] != 'No':
                 temp_idx = isu.rfind('=')
                 isu_time = isu[temp_idx + 1: -1].split('Minutes')[0].replace(' ', '').split('Hours')
-                temp_time = int(isu_time[0].split('Days')[0]) * 1440 + int(isu_time[0].split('Days')[1]) * 60 + int(
-                    isu_time[1])
+                temp_time = float(isu_time[0].split('Days')[0]) * 24 + float(isu_time[0].split('Days')[1]) + float(isu_time[1]) / 60
                 total_time.append(temp_time)
         self.echart2_data['data'].append({'name': 'avg time', 'value': int(np.mean(total_time))})
         self.echart2_data['data'].append(
@@ -177,7 +176,7 @@ class SourceDataDemo:
         Weekend = int(commits[9].split(':')[1])
 
         self.echarts3_2_data = {
-            'title': '日时段分布',
+            'title': 'commit日分布',
             'data': [
                 {"name": "Morning", "value": int(Morning)},
                 {"name": "Noon", "value": int(Noon)},
@@ -188,7 +187,7 @@ class SourceDataDemo:
         }
 
         self.echarts3_3_data = {
-            'title': '周时段分布',
+            'title': 'commit周分布',
             'data': [
                 {"name": "Weekday", "value": int(Weekday)},
                 {"name": "Weekend", "value": int(Weekend)},

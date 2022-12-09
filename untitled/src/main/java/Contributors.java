@@ -11,9 +11,9 @@ public class Contributors {
   public static void main(String[] args) throws IOException {
     List<LinkedHashMap<String, Object>> a = new ArrayList<>();
     int m = 2;
-    String s = "https://api.github.com/repos/alibaba/arthas/contributors?per_page=100&anon=1";
+    String s = "https://api.github.com/repos/lin-xin/vue-manage-system/contributors?per_page=100&anon=1";
     URL url = new URL(s);
-    PrintWriter out = new PrintWriter("Contributors_arthas.txt");
+    PrintWriter out = new PrintWriter("Contributors_vue-manage-system.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();
     connection.setRequestMethod("GET");
     connection.connect();
@@ -24,7 +24,7 @@ public class Contributors {
       j.append(in.next());
     }
       getJsonList(a, j.toString());
-      s = "https://api.github.com/repos/alibaba/arthas/contributors?per_page=100&page="+m+"&anon=1";
+      s = "https://api.github.com/repos/lin-xin/vue-manage-system/contributors?per_page=100&page="+m+"&anon=1";
       url = new URL(s);
       connection = (HttpURLConnection) url.openConnection();
       connection.setRequestMethod("GET");

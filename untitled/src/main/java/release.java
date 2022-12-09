@@ -16,10 +16,10 @@ import java.util.*;
 
 public class release {
   public static void main(String[] args) throws IOException, ParseException {
-    String s = "https://api.github.com/repos/alibaba/fastjson/releases?per_page=100";
+    String s = "https://api.github.com/repos/alibaba/arthas/releases?per_page=100";
     URL url = new URL(s);
-    Scanner in1 = new Scanner(new File("Time.txt"));
-    PrintWriter out = new PrintWriter("release.txt");
+    Scanner in1 = new Scanner(new File("Time_arthas.txt"));
+    PrintWriter out = new PrintWriter("release_arthas.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();
     connection.setRequestMethod("GET");
     connection.connect();

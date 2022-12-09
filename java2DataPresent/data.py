@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time : 2020/8/26 14:48
-# @Author : way
-# @Site : 
-# @Describe:
-
-import json
 import numpy as np
 
 
@@ -141,7 +133,8 @@ class SourceDataDemo:
             if isu[-3:-1] != 'No':
                 temp_idx = isu.rfind('=')
                 isu_time = isu[temp_idx + 1: -1].split('Minutes')[0].replace(' ', '').split('Hours')
-                temp_time = float(isu_time[0].split('Days')[0]) * 24 + float(isu_time[0].split('Days')[1]) + float(isu_time[1]) / 60
+                temp_time = float(isu_time[0].split('Days')[0]) * 24 + float(isu_time[0].split('Days')[1]) + float(
+                    isu_time[1]) / 60
                 total_time.append(temp_time)
         self.echart2_data['data'].append({'name': 'avg time', 'value': int(np.mean(total_time))})
         self.echart2_data['data'].append(

@@ -173,8 +173,8 @@ Time:2022-12-08
 {login=Anonymous, contributions=1}
 2320
 -spy raye ace-
-Openissues: 298
-Closedissues: 1502
+Openissues: 374
+Closedissues: 1570
 {comments=96, state=closed, durationTime=934 Days 20 Hours 23 Minutes 58 Seconds}
 {comments=61, state=closed, durationTime=67 Days 20 Hours 15 Minutes 17 Seconds}
 {comments=56, state=closed, durationTime=243 Days 2 Hours 32 Minutes 34 Seconds}

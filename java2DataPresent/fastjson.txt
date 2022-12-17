@@ -209,8 +209,8 @@ Time:2022-11-28
 {login=Anonymous, contributions=1}
 3971
 -spy raye ace-
-Openissues: 1014
-Closedissues: 786
+Openissues: 1807
+Closedissues: 1646
 {comments=43, state=open, durationTime=No}
 {comments=22, state=open, durationTime=No}
 {comments=18, state=open, durationTime=No}

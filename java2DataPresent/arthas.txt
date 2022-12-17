@@ -169,8 +169,8 @@ Time:2022-12-08
 {login=WildWolfBang, contributions=1}
 1834
 -spy raye ace-
-Openissues: 251
-Closedissues: 1549
+Openissues: 220
+Closedissues: 1428
 {comments=31, state=closed, durationTime=9 Days 4 Hours 41 Minutes 10 Seconds}
 {comments=31, state=closed, durationTime=360 Days 1 Hours 15 Minutes 34 Seconds}
 {comments=28, state=closed, durationTime=371 Days 16 Hours 4 Minutes 44 Seconds}

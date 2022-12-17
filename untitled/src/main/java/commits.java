@@ -15,22 +15,22 @@ public class commits {
   public static void main(String[] args) throws IOException, ParseException {
     int m = 2;
     List<LinkedHashMap<String, Object>> dataList = new ArrayList<>();
-    String s = "https://api.github.com/repos/alibaba/arthas/commits?per_page=100";
+    String s = "https://api.github.com/repos/lin-xin/vue-manage-system/commits?per_page=100";
     URL url = new URL(s);
-    PrintWriter out = new PrintWriter("commits_arthas.txt");
-    PrintWriter out2 = new PrintWriter("Time_arthas.txt");
+    PrintWriter out = new PrintWriter("commits_vue-manage-system.txt");
+    PrintWriter out2 = new PrintWriter("Time_vue-manage-system.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();
     connection.setRequestMethod("GET");
     connection.connect();
     int[] d = new int[8];
-    while (m != 30) {
+    while (m != 10) {
       StringBuilder j = new StringBuilder();
       Scanner in = new Scanner(connection.getInputStream());
       while (in.hasNext()) {
         j.append(in.next());
       }
       getCommitList(out2, d, dataList, j.toString());
-      s = "https://api.github.com/repos/alibaba/arthas/commits?per_page=100&page="+m;
+      s = "https://api.github.com/repos/lin-xin/vue-manage-system/commits?per_page=100&page="+m;
       url = new URL(s);
       connection = (HttpURLConnection) url.openConnection();
       connection.setRequestMethod("GET");

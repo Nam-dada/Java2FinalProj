@@ -17,20 +17,20 @@ public class issues {
   public static void main(String[] args) throws IOException, ParseException {
     int m = 2;
     List<LinkedHashMap<String, Object>> dataList = new ArrayList<>();
-    String s = "https://api.github.com/repos/alibaba/fastjson/issues?state=all&per_page=100";
+    String s = "https://api.github.com/repos/alibaba/spring-cloud-alibaba/issues?state=all&per_page=100";
     URL url = new URL(s);
-    PrintWriter out = new PrintWriter("issues_fastjson.txt");
+    PrintWriter out = new PrintWriter("issues_spring-cloud-alibaba.txt");
     HttpURLConnection connection = (HttpURLConnection) url.openConnection();
     connection.setRequestMethod("GET");
     connection.connect();
-    while (m != 50) {
+    while (m != 40) {
       StringBuilder j = new StringBuilder();
       Scanner in = new Scanner(connection.getInputStream());
       while (in.hasNext()) {
         j.append(in.next());
       }
       getJsList(dataList, j.toString());
-      s = "https://api.github.com/repos/alibaba/fastjson/issues?state=all&per_page=100&page="+m;
+      s = "https://api.github.com/repos/alibaba/spring-cloud-alibaba/issues?state=all&per_page=100&page="+m;
       url = new URL(s);
       connection = (HttpURLConnection) url.openConnection();
       connection.setRequestMethod("GET");

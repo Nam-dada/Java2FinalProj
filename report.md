@@ -1,5 +1,7 @@
 # CS209A-Fall Final Project Report
 
+**作者：余乃蔚，王海龙** 		贡献比：1:1
+
 > You should provide a written report that describes the GitHub repos you selected for this project. 
 >
 > The written report should also introduce **the architecture design of your project**, as well as the **important classes, fields, and methods**.
@@ -228,4 +230,4 @@ Calendar calendar = Calendar.getInstance();
 
 ## 总结
 
-通过对alibaba的三个repo的分析，我们体验到对于一个大项目而言，多用户合作来进行工作的形式、提交commit的时段、每多少个commits放出一个release、issue应该何时结束等是什么样的，这对于我们以后管理GitHub项目有一定的参考价值。
+通过对alibaba的三个repo的分析，我们体验到对于一个大项目而言，多用户合作来进行工作的形式、提交commit的时段、每多少个commits放出一个release、issue应该何时结束等是什么样的，这对于我们以后管理GitHub项目有一定的参考价值。除此之外我们通过本次项目对springboot项目架构以及RESTful接口有了一个更加深入的认知，学会了应用RESTful接口去爬取数据以及通过springboot框架搭建自己的RESTful接口，以及更熟练的掌握了利用fastjson等工具对json数据进行解析。

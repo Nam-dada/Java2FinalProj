@@ -63,7 +63,6 @@ public class Commits {
       SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss Z");
       SimpleDateFormat format1 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
       Date timeEnd = format.parse(Time1);
-      System.out.println(Time1);
       String Time2 = format1.format(timeEnd);
       Date date = format1.parse(Time2);
       String t1 = Time2.replace(":", "");

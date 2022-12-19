@@ -19,12 +19,12 @@ public class Contributors {
     connection.connect();
     while (m != 6) {
       StringBuilder j = new StringBuilder();
-    Scanner in = new Scanner(connection.getInputStream());
-    while (in.hasNext()) {
-      j.append(in.next());
-    }
+      Scanner in = new Scanner(connection.getInputStream());
+      while (in.hasNext()) {
+        j.append(in.next());
+      }
       getJsonList(a, j.toString());
-      s = "https://api.github.com/repos/lin-xin/vue-manage-system/contributors?per_page=100&page="+m+"&anon=1";
+      s = "https://api.github.com/repos/lin-xin/vue-manage-system/contributors?per_page=100&page=" + m + "&anon=1";
       url = new URL(s);
       connection = (HttpURLConnection) url.openConnection();
       connection.setRequestMethod("GET");
@@ -32,15 +32,16 @@ public class Contributors {
       m++;
     }
     int total = 0;
-      Collections.sort(a, (m1, m2) -> Integer.compare(Integer.parseInt(m2.get("contributions").toString()), Integer.parseInt(m1.get("contributions").toString())));
+    Collections.sort(a, (m1, m2) -> Integer.compare(Integer.parseInt(m2.get("contributions").toString()), Integer.parseInt(m1.get("contributions").toString())));
     for (int i = 0; i < a.size(); i++) {
       out.println(a.get(i));
       total += Integer.parseInt(a.get(i).get("contributions").toString());
     }
     out.println(total);
-      out.close();
+    out.close();
   
   }
+  
   public static void getJsonList(List<LinkedHashMap<String, Object>> dataList, String s) {
     JSONArray contributors =  JSONArray.parseArray(s);
     for (int i = 0; i < contributors.size(); i++) {

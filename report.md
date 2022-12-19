@@ -8,17 +8,9 @@
 
 我们项目的体系结构设计大概如下：
 
-爬虫部分：使用java编写，数据经过处理后存至本地txt文件中。
-
 前端部分：使用python+HTML编写，读取本地txt文件并进行数据展示。
 
-后端部分：
-
-
-
-
-
-
+后端部分：首先是爬虫部分，用的是java编写，结构是普通的maven项目架构，主要是调用github本身的restful接口获取原始的json数据然后使用alibaba的fastjson工具进行解析处理获取到我们想要的数据，第二部分是搭建我们自己的restful接口，这里使用的是springboot的框架，当目录下的application运行后可以直接通过浏览器调用对应的restful接口获取电脑本地的数据,调用的格式为/id/rep/order。
 
 我们所选择的Github Repos分别是
 
@@ -31,8 +23,12 @@
 对于spring-cloud-alibaba这个repo：
 
 - 它的developer总数为2320，commits前6位的id分别是fangjian0423，mercyblitz，flystar32，yuhuangbin，DanielLiu1123，theonefx。
+
 - 关于issue，open issue的总数为393，closed issue的总数为2570，解决issue的时间的平均值为1074h，极值差为30,026h，方差为9,612,111.
-- release的总数为30，最新7代release之间所相差的commits数量分别为0，62，173，129，50，24。其中，关于commit的时间分布如下图所示：![image-20221218184144066](pic/image-20221218184144066.png)
+
+- release的总数为30，最新7代release之间所相差的commits数量分别为0，62，173，129，50，24。其中，关于commit的时间分布如下图所示：
+
+  ![image-20221218184144066](pic/image-20221218184144066.png)
 
 从获取的数据中我们可以得知：
 
@@ -48,8 +44,12 @@
 对于arthas这个repo：
 
 - 它的developer总数为1834，commits前6位的id分别是hengyunabc，HollowMan6，kylixs，Hearen，beiwei30，ralf0131。
+
 - 关于issue，open issue的总数为272，closed issue的总数为2051，解决issue的时间的平均值为837h，极值差为31,199h，方差为7,298,297.
-- release的总数为47，最新7代release之间所相差的commits数量分别为33，8，16，15，3，12。其中，关于commit的时间分布如下图所示：![image-20221218184453291](pic/image-20221218184453291.png)
+
+- release的总数为47，最新7代release之间所相差的commits数量分别为33，8，16，15，3，12。其中，关于commit的时间分布如下图所示：
+
+  ![image-20221218184453291](pic/image-20221218184453291.png)
 
 从获取的数据中我们可以得知：
 
@@ -65,8 +65,12 @@
 对于fastjson这个repo：
 
 - 它的developer总数为3971，commits前6位的id分别是wenshao，VictorZeng，Omega-Ariston，'Anonymous'（匿名用户），kimmking，'Anonymous'（匿名用户）。
+
 - 关于issue，open issue的总数为1976，closed issue的总数为2324，解决issue的时间的平均值为1909h，极值差为39,645h，方差为17,971,527.
-- release的总数为84，最新7代release之间所相差的commits数量分别为25，68，82，43，56，44。其中，关于commit的时间分布如下图所示：![image-20221218184622466](pic/image-20221218184622466.png)
+
+- release的总数为84，最新7代release之间所相差的commits数量分别为25，68，82，43，56，44。其中，关于commit的时间分布如下图所示：
+
+  ![image-20221218184622466](pic/image-20221218184622466.png)
 
 从获取的数据中我们可以得知：
 

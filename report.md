@@ -23,8 +23,12 @@
 对于spring-cloud-alibaba这个repo：
 
 - 它的developer总数为2320，commits前6位的id分别是fangjian0423，mercyblitz，flystar32，yuhuangbin，DanielLiu1123，theonefx。
+
 - 关于issue，open issue的总数为393，closed issue的总数为2570，解决issue的时间的平均值为1074h，极值差为30,026h，方差为9,612,111.
-- release的总数为30，最新7代release之间所相差的commits数量分别为0，62，173，129，50，24。其中，关于commit的时间分布如下图所示：![image-20221218184144066](pic/image-20221218184144066.png)
+
+- release的总数为30，最新7代release之间所相差的commits数量分别为0，62，173，129，50，24。其中，关于commit的时间分布如下图所示：
+
+  ![image-20221218184144066](pic/image-20221218184144066.png)
 
 从获取的数据中我们可以得知：
 
@@ -40,8 +44,12 @@
 对于arthas这个repo：
 
 - 它的developer总数为1834，commits前6位的id分别是hengyunabc，HollowMan6，kylixs，Hearen，beiwei30，ralf0131。
+
 - 关于issue，open issue的总数为272，closed issue的总数为2051，解决issue的时间的平均值为837h，极值差为31,199h，方差为7,298,297.
-- release的总数为47，最新7代release之间所相差的commits数量分别为33，8，16，15，3，12。其中，关于commit的时间分布如下图所示：![image-20221218184453291](pic/image-20221218184453291.png)
+
+- release的总数为47，最新7代release之间所相差的commits数量分别为33，8，16，15，3，12。其中，关于commit的时间分布如下图所示：
+
+  ![image-20221218184453291](pic/image-20221218184453291.png)
 
 从获取的数据中我们可以得知：
 
@@ -57,8 +65,12 @@
 对于fastjson这个repo：
 
 - 它的developer总数为3971，commits前6位的id分别是wenshao，VictorZeng，Omega-Ariston，'Anonymous'（匿名用户），kimmking，'Anonymous'（匿名用户）。
+
 - 关于issue，open issue的总数为1976，closed issue的总数为2324，解决issue的时间的平均值为1909h，极值差为39,645h，方差为17,971,527.
-- release的总数为84，最新7代release之间所相差的commits数量分别为25，68，82，43，56，44。其中，关于commit的时间分布如下图所示：![image-20221218184622466](pic/image-20221218184622466.png)
+
+- release的总数为84，最新7代release之间所相差的commits数量分别为25，68，82，43，56，44。其中，关于commit的时间分布如下图所示：
+
+  ![image-20221218184622466](pic/image-20221218184622466.png)
 
 从获取的数据中我们可以得知：
 

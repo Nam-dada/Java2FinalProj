@@ -1,19 +1,25 @@
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.alibaba.fastjson.annotation.JSONField;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.HttpURLConnection;
-import java.net.ProtocolException;
 import java.net.URL;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.Duration;
 import java.util.*;
 
-public class issues {
+/**
+ * .
+ */
+public class Issues {
+  /**
+   * .
+
+   * @param args .
+   * @throws IOException .
+   * @throws ParseException .
+   */
   public static void main(String[] args) throws IOException, ParseException {
     int m = 2;
     List<LinkedHashMap<String, Object>> dataList = new ArrayList<>();
@@ -30,7 +36,7 @@ public class issues {
         j.append(in.next());
       }
       getJsList(dataList, j.toString());
-      s = "https://api.github.com/repos/alibaba/spring-cloud-alibaba/issues?state=all&per_page=100&page="+m;
+      s = "https://api.github.com/repos/alibaba/spring-cloud-alibaba/issues?state=all&per_page=100&page=" + m;
       url = new URL(s);
       connection = (HttpURLConnection) url.openConnection();
       connection.setRequestMethod("GET");
@@ -40,8 +46,8 @@ public class issues {
     int open = 0;
     int close = 0;
     List<String> outList = new ArrayList<>();
-    Collections.sort(dataList, (m1, m2) -> Integer.compare(Integer.parseInt
-       (m2.get("comments").toString()), Integer.parseInt(m1.get("comments").toString())));
+    Collections.sort(dataList, (m1, m2) -> Integer.compare(Integer.parseInt(
+        m2.get("comments").toString()), Integer.parseInt(m1.get("comments").toString())));
     for (int i = 0; i < dataList.size(); i++) {
       if (dataList.get(i).get("state").toString().equals("open")) {
         open++;
@@ -50,22 +56,38 @@ public class issues {
       }
       outList.add(dataList.get(i).toString());
     }
-    out.println("Openissues: "+ open);
-    out.println("Closedissues "+ close);
+    out.println("Openissues: " + open);
+    out.println("Closedissues " + close);
     for (int i = 0; i < outList.size(); i++) {
       out.println(outList.get(i));
     }
     out.close();
   }
+  
+  /**
+   * .
+   * @param creatTime .
+   * @param closeTime .
+   * @return .
+   * @throws ParseException .
+   */
   public static String getDurationTime(String creatTime, String closeTime) throws ParseException {
     if (closeTime.equals("null")) {
       return  "No";
     }
     return getTime(creatTime, closeTime);
   }
+  
+  /**
+   * .
+   * @param cT .
+   * @param clT .
+   * @return .
+   * @throws ParseException .
+   */
   public static String getTime(String cT, String clT) throws ParseException {
     String cTime1 = cT.replace('T', ' ');
-    String cTime2 = cTime1.replace('Z',' ');
+    String cTime2 = cTime1.replace('Z', ' ');
     String clTime = clT.replace('T', ' ');
     String clTime2 = clTime.replace('Z', ' ');
     SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss ");
@@ -83,12 +105,13 @@ public class issues {
     long minutes = diff / sm;
     diff -= minutes * sm;
     long seconds = diff / ss;
-    return days + " Days "+hours+" Hours "+minutes+ " Minutes "+seconds+" Seconds";
+    return days + " Days " + hours + " Hours " + minutes + " Minutes " + seconds + " Seconds";
   }
+  
   public static void getJsList(List<LinkedHashMap<String, Object>> list, String js) throws ParseException {
     JSONArray issues = JSONArray.parseArray(js);
-    for (int i = 0 ; i < issues.size(); i++) {
-      JSONObject j = (JSONObject)issues.get(i);
+    for (int i = 0; i < issues.size(); i++) {
+      JSONObject j = (JSONObject) issues.get(i);
       String comments = j.get("comments").toString();
       String state = j.get("state").toString();
       String creatTime = j.get("created_at").toString();

@@ -1,20 +1,15 @@
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import org.apache.camel.util.json.JsonArray;
-
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.ProtocolException;
 import java.net.URL;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class release {
+public class Release {
   public static void main(String[] args) throws IOException, ParseException {
     String s = "https://api.github.com/repos/lin-xin/vue-manage-system/releases?per_page=100";
     URL url = new URL(s);
@@ -25,7 +20,7 @@ public class release {
     connection.connect();
     Scanner in = new Scanner(connection.getInputStream());
     StringBuilder js = new StringBuilder();
-    while(in.hasNext()) {
+    while (in.hasNext()) {
       js.append(in.next());
     }
     ArrayList<Long> time = new ArrayList<>();
@@ -36,15 +31,16 @@ public class release {
     String s2 = js.toString();
     List<LinkedHashMap<String, Object>> dateList = new ArrayList<>();
     getReleasesJs(dateList, s2, time);
-    out.println("Total Releases: "+dateList.size());
+    out.println("Total Releases: " + dateList.size());
     for (int i = 0; i  < dateList.size(); i++) {
       out.println(dateList.get(i));
     }
     out.close();
   }
-  public static void getReleasesJs (List<LinkedHashMap<String, Object>> dateList, String s, ArrayList<Long> time) throws ParseException {
+  
+  public static void getReleasesJs(List<LinkedHashMap<String, Object>> dateList, String s, ArrayList<Long> time) throws ParseException {
     JSONArray release = JSONArray.parseArray(s);
-    for (int i = 0 ; i < release.size() - 1; i++) {
+    for (int i = 0; i < release.size() - 1; i++) {
       LinkedHashMap<String, Object> map = new LinkedHashMap<>();
       JSONObject re = release.getJSONObject(i);
       JSONObject re2 = release.getJSONObject(i + 1);
@@ -65,11 +61,11 @@ public class release {
       String TimeSt = format3.format(timeSt);
       String t1 = Time2.replace(":", "");
       String t2 = t1.replace("-", "");
-      String t3 = t2.replace(" ","");
+      String t3 = t2.replace(" ", "");
       long end = Long.parseLong(t3);
       String t4 = TimeSt.replace(":", "");
       String t5 = t4.replace("-", "");
-      String t6 = t5.replace(" ","");
+      String t6 = t5.replace(" ", "");
       long begin = Long.parseLong(t6);
       int totalCommit = getCommits(begin, end, time);
       map.put("Tag_name", tag);
@@ -92,14 +88,15 @@ public class release {
     map.put("NewCommits", 0);
     dateList.add(map);
   }
-  public static int getCommits (long begin, long end, ArrayList<Long> time) {
+  
+  public static int getCommits(long begin, long end, ArrayList<Long> time) {
     int blue1 = -1;
     System.out.println(begin);
     System.out.println(end);
     int red1 = time.size();
     int mid1;
     while (blue1 + 1 != red1) {
-       mid1 = (blue1 + red1) / 2;
+      mid1 = (blue1 + red1) / 2;
       if (time.get(mid1) < begin) {
         blue1 = mid1;
       } else {

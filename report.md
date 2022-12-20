@@ -1,6 +1,6 @@
 # CS209A-Fall Final Project Report
 
-**作者：余乃蔚，王海龙** 		贡献比：1:1
+**作者：12011815余乃蔚，12112319王海龙** 		贡献比：1:1
 
 > You should provide a written report that describes the GitHub repos you selected for this project. 
 >
@@ -225,6 +225,12 @@ Calendar calendar = Calendar.getInstance();
 - 根据时间段划分的话，我们把时间段在(6,11]的划分为morning，(11,13]的划分为noon，(13,18]的划分为afternoon，(18,22]的划分为evening，(22,6]（晚22点到次日6点）的划分为night。结果显示，在afternoon时间段的commits是最多的，占比28.32%；其次是evening，占比23.09%；再者是morning，占比21.7%。
 
 我们认为，该repo具有足够高的commits数和developers数，但是可能还得在issues的解决这块做出改进，例如说及时关闭已经解决了的issue等。同时，在凌晨也会有commits提交，说明developers比较国际化且工作效率都较高，~~但是太晚工作对身体不好。~~
+
+
+
+
+
+
 
 
 
